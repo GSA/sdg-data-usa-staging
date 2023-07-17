@@ -1,0 +1,14 @@
+Indicator,Disaggregations,Number of disaggregations
+#1-2-1,"sex, age",2
+#11-1-1,severity,1
+#16-1-4,sex,1
+#16-2-2,exploitation,1
+#16-3-1,sex,1
+#17-1-1,source,1
+#3-3-1,"sex, age, race_ethnicity",3
+#3-3-4,"sex, age, race_ethnicity",3
+#3-c-1,status,1
+#4-2-2,"Sex, Income",2
+#4-4-1,"sex, age, income",3
+#4-7-1,"sex, disability_status, urbanicity",3
+#4-b-1,education,1

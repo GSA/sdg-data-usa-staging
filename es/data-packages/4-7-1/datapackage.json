@@ -1,0 +1,68 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "i4_7_1_male",
+                "i4_7_1_female",
+                ""
+              ]
+            },
+            "title": "sex"
+          },
+          {
+            "name": "disability_status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "i4_7_1_disabilities",
+                "i4_7_1_nodisabilities",
+                ""
+              ]
+            },
+            "title": "disability_status"
+          },
+          {
+            "name": "urbanicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "i4_7_1_urban",
+                "i4_7_1_suburban",
+                "i4_7_1_town",
+                "i4_7_1_rural",
+                ""
+              ]
+            },
+            "title": "urbanicity"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-7-1",
+  "title": "Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment"
+}
