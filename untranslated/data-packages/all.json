@@ -1579,6 +1579,28 @@
       "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
     },
     {
+      "path": "5-2-2/data.csv",
+      "name": "5-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
+    },
+    {
       "path": "13-b-1/data.csv",
       "name": "13-b-1",
       "profile": "tabular-data-resource",
@@ -1643,6 +1665,28 @@
         ]
       },
       "title": "Proportion of births attended by skilled health personnel"
+    },
+    {
+      "path": "3-b-2/data.csv",
+      "name": "3-b-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Total net official development assistance to medical research and basic health sectors"
     },
     {
       "path": "5-a-2/data.csv",
@@ -2989,6 +3033,28 @@
       "title": "Proportion of individuals using the Internet"
     },
     {
+      "path": "9-a-1/data.csv",
+      "name": "9-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
+    },
+    {
       "path": "12-2-2/data.csv",
       "name": "12-2-2",
       "profile": "tabular-data-resource",
@@ -3207,6 +3273,28 @@
         ]
       },
       "title": "Aid for Trade commitments and disbursements"
+    },
+    {
+      "path": "9-5-2/data.csv",
+      "name": "9-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Researchers (in full-time equivalent) per million inhabitants"
     },
     {
       "path": "13-1-2/data.csv",
@@ -4484,6 +4572,28 @@
       "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
+      "path": "7-1-2/data.csv",
+      "name": "7-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Proportion of population with primary reliance on clean fuels and technology"
+    },
+    {
       "path": "15-4-2/data.csv",
       "name": "15-4-2",
       "profile": "tabular-data-resource",
@@ -4939,6 +5049,28 @@
         ]
       },
       "title": "Weighted average tariffs faced by developing countries, least developed countries and small island developing States"
+    },
+    {
+      "path": "10-a-1/data.csv",
+      "name": "10-a-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
     },
     {
       "path": "6-4-2/data.csv",
@@ -5612,28 +5744,6 @@
       "title": "Number of countries implementing sustainable public procurement policies and action plans"
     },
     {
-      "path": "10-a-1/data.csv",
-      "name": "10-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff"
-    },
-    {
       "path": "2-2-3/data.csv",
       "name": "2-2-3",
       "profile": "tabular-data-resource",
@@ -5654,28 +5764,6 @@
         ]
       },
       "title": "Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)"
-    },
-    {
-      "path": "9-a-1/data.csv",
-      "name": "9-a-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Total official international support (official development assistance plus other official flows) to infrastructure"
     },
     {
       "path": "16-3-3/data.csv",
@@ -5720,28 +5808,6 @@
         ]
       },
       "title": "Mortality rate attributed to household and ambient air pollution"
-    },
-    {
-      "path": "5-2-2/data.csv",
-      "name": "5-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence"
     },
     {
       "path": "10-7-3/data.csv",
@@ -5832,50 +5898,6 @@
       "title": "Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species"
     },
     {
-      "path": "7-1-2/data.csv",
-      "name": "7-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Proportion of population with primary reliance on clean fuels and technology"
-    },
-    {
-      "path": "9-5-2/data.csv",
-      "name": "9-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Researchers (in full-time equivalent) per million inhabitants"
-    },
-    {
       "path": "10-7-4/data.csv",
       "name": "10-7-4",
       "profile": "tabular-data-resource",
@@ -5896,28 +5918,6 @@
         ]
       },
       "title": "Proportion of the population who are refugees, by country of origin"
-    },
-    {
-      "path": "3-b-2/data.csv",
-      "name": "3-b-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Total net official development assistance to medical research and basic health sectors"
     },
     {
       "path": "10-4-2/data.csv",
