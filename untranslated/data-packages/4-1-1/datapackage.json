@@ -15,6 +15,39 @@
             "type": "integer"
           },
           {
+            "name": "subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "reading",
+                "math",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "grade",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4th",
+                "8th",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }

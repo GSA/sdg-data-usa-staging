@@ -16,6 +16,33 @@
             "title": "Año"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            },
+            "title": "sex"
+          },
+          {
+            "name": "income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "low",
+                "middle low",
+                "middle",
+                "middle high",
+                "high",
+                ""
+              ]
+            },
+            "title": "income"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

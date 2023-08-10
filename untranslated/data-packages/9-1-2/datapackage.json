@@ -15,8 +15,46 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "passenger-kilometers",
+                "freight-tonnage",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "passenger-mode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "highway",
+                "air",
+                "transit",
+                "rail",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "freight-mode",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "truck",
+                "pipeline",
+                "rail",
+                "vessel",
+                "air",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

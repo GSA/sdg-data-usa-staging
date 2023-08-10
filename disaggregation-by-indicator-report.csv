@@ -8,7 +8,11 @@ Indicator,Disaggregations,Number of disaggregations
 #3-3-1,"sex, age, race_ethnicity",3
 #3-3-4,"sex, age, race_ethnicity",3
 #3-c-1,status,1
+#4-1-1,"subject, grade, sex",3
 #4-2-2,"Sex, Income",2
+#4-3-1,"sex, education, age, income",4
 #4-4-1,"sex, age, income",3
+#4-5-1,"sex, income",2
 #4-7-1,"sex, disability_status, urbanicity",3
 #4-b-1,education,1
+#9-1-2,"passenger-mode, freight-mode",2

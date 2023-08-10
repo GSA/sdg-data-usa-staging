@@ -1,14 +1,18 @@
 Disaggregation,Number of indicators,Number of values
-age,4,16
+age,5,21
 disability_status,1,2
-education,1,2
+education,2,4
 exploitation,1,2
+freight-mode,1,5
+grade,1,2
 Income,1,5
-income,1,2
+income,3,10
+passenger-mode,1,4
 race_ethnicity,2,5
 severity,1,2
-sex,7,10
 Sex,1,2
+sex,10,10
 source,1,5
 status,1,2
+subject,1,2
 urbanicity,1,4

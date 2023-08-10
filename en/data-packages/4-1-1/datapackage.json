@@ -16,6 +16,42 @@
             "title": "Year"
           },
           {
+            "name": "subject",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "reading",
+                "math",
+                ""
+              ]
+            },
+            "title": "subject"
+          },
+          {
+            "name": "grade",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4th",
+                "8th",
+                ""
+              ]
+            },
+            "title": "grade"
+          },
+          {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            },
+            "title": "sex"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

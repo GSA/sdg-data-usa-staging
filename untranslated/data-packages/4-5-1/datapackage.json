@@ -15,6 +15,31 @@
             "type": "integer"
           },
           {
+            "name": "sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "male",
+                "female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "income",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "low",
+                "middle low",
+                "middle",
+                "middle high",
+                "high",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
