@@ -1,6 +1,5 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
 #1-1-1,notstarted,International Labour Organization (ILO),,,,,line
-#1-1-1__alt,notstarted,,True,,,,line
 #1-2-1,complete,World Bank,,,,,line
 #1-2-2,notstarted,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,,,,line
 #1-3-1,complete,International Labour Organization (ILO),,,,,line
@@ -13,7 +12,6 @@ WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (
 #1-5-4,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #1-a-1,notstarted,OECD,,,,,line
 #1-a-2,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
-#1-a-3,notstarted,,,,,,line
 #1-b-1,notstarted,,,,,,line
 #10-1-1,complete,World Bank (WB),,,,,line
 #10-2-1,notstarted,World Bank (WB),,,,,line
@@ -48,7 +46,6 @@ The World Trade Organization (WTO)",,,,,line
 UNFPA",,,,,line
 #11-b-1,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #11-b-2,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#11-c-1,complete,,,,,,line
 #12-1-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #12-2-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #12-2-2,complete,United Nations Environment Programme (UNEP),,,,,line
