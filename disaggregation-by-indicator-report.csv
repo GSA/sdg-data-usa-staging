@@ -10,8 +10,8 @@ Indicator,Disaggregations,Number of disaggregations
 #3-c-1,status,1
 #4-1-1,"sex, subject, grade",3
 #4-2-2,"Sex, Income",2
-#4-3-1,"sex, age, income, education",4
-#4-4-1,"sex, age, income",3
+#4-3-1,"sex, income, education, age",4
+#4-4-1,"sex, income, age",3
 #4-5-1,"sex, income",2
 #4-7-1,"sex, disability_status, urbanicity",3
 #4-b-1,education,1
