@@ -1,313 +1,313 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
-#1-1-1,notstarted,International Labour Organization (ILO),,,,,line
-#1-2-1,complete,World Bank,,,,,line
-#1-2-2,notstarted,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,,,,line
-#1-3-1,complete,International Labour Organization (ILO),,,,,line
+#1-1-1,complete,International Labour Organization (ILO),True,,United States,,
+#1-2-1,complete,World Bank,,,United States,Proportion of noninstitutionalized persons in the U.S.,line
+#1-2-2,notstarted,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",True,,United States,,
+#1-3-1,complete,International Labour Organization (ILO),,,United States,Persons,line
 #1-4-1,notstarted,"United Nations Human Settlements Programme (UN-Habitat)
-WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (1.4.1a, b and c)",,,,,line
-#1-4-2,notstarted,UN-Habitat and World Bank,,,,,line
-#1-5-1,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#1-5-2,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#1-5-3,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#1-5-4,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#1-a-1,notstarted,OECD,,,,,line
-#1-a-2,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
-#1-b-1,notstarted,"UNICEF, Save the Children",,,,,line
-#10-1-1,complete,World Bank (WB),,,,,line
-#10-2-1,notstarted,World Bank (WB),,,,,line
-#10-3-1,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
-#10-4-1,complete,International Labour Organization (ILO),,,,,line
+WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (1.4.1a, b and c)",True,,United States,,
+#1-4-2,notstarted,UN-Habitat and World Bank,True,,United States,,
+#1-5-1,complete,United Nations Office for Disaster Reduction (UNISDR),,,United States,Yes/no,binary
+#1-5-2,complete,United Nations Office for Disaster Reduction (UNISDR),,,United States,Disaster losses: Billions of US dollars,bar
+#1-5-3,complete,United Nations Office for Disaster Reduction (UNISDR),,,United States,Yes/No,binary
+#1-5-4,complete,United Nations Office for Disaster Reduction (UNISDR),,,United States,Yes/No,binary
+#1-a-1,notstarted,OECD,True,,United States,,
+#1-a-2,notstarted,UNESCO Institute for Statistics (UNESCO-UIS),True,,United States,,
+#1-b-1,notstarted,"UNICEF, Save the Children",True,,United States,,
+#10-1-1,complete,World Bank (WB),,,United States,percent change,line
+#10-2-1,notstarted,World Bank (WB),True,,United States,,
+#10-3-1,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),True,,United States,,
+#10-4-1,complete,International Labour Organization (ILO),,,United States,Proportion,line
 #10-4-2,notstarted,"Institutional information: The World Bank Group is the official custodian for this indicator. This metadata documentation was developed and agreed by the three institutional data providers, CEQ Institute, OECD and The World Bank.",,,,,line
-#10-5-1,notstarted,International Monetary Fund,,,,,line
+#10-5-1,notstarted,International Monetary Fund,True,,United States,,
 #10-6-1,notstarted,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
-",,,,,line
-#10-7-1,notstarted,International Labour Organization (ILO) and World Bank (WB),,,,,line
-#10-7-2,notstarted,International Organization for Migration (IOM) and United Nations Department of Economic and Social Affairs (DESA) as custodian agencies,,,,,line
+",True,,United States,,
+#10-7-1,notstarted,International Labour Organization (ILO) and World Bank (WB),True,,United States,,
+#10-7-2,notstarted,International Organization for Migration (IOM) and United Nations Department of Economic and Social Affairs (DESA) as custodian agencies,True,,United States,,
 #10-7-3,notstarted,International Organization for Migration (IOM),,,,,line
 #10-7-4,notstarted,United Nations High Commissioner for Refugees (UNHCR),,,,,line
 #10-a-1,notstarted,"International Trade Centre (ITC)
 United Nations Conference on Trade and Development (UNCTAD)
-The World Trade Organization (WTO)",,,,,line
-#10-b-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#10-c-1,notstarted,World Bank,,,,,line
-#11-1-1,complete,United Nations Human Settlements Programme (UN-Habitat) ,,,,,line
-#11-2-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
-#11-3-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
-#11-3-2,notstarted,UN-Habitat,,,,,line
-#11-4-1,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
-#11-5-1,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#11-5-2,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
+The World Trade Organization (WTO)",True,,United States,,line
+#10-b-1,notstarted,Organisation for Economic Co-operation and Development (OECD),True,,United States,,
+#10-c-1,notstarted,World Bank,True,,United States,,
+#11-1-1,complete,United Nations Human Settlements Programme (UN-Habitat) ,,,United States,Percent of all occupied housing units (households),line
+#11-2-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),True,,United States,,
+#11-3-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),True,,United States,,
+#11-3-2,notstarted,UN-Habitat,True,,United States,,
+#11-4-1,notstarted,UNESCO Institute for Statistics (UIS),True,,United States,,
+#11-5-1,complete,United Nations Office for Disaster Reduction (UNISDR),,,United States,Yes/no,binary
+#11-5-2,complete,United Nations Office for Disaster Reduction (UNISDR),,,United States,Disaster losses: billions of US dollars,line
 #11-5-3,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
-#11-6-1,notstarted,"UN-Habitat, UNSD",,,,,line
-#11-6-2,complete,World Health Organization (WHO),,,,,line
-#11-7-1,notstarted,UN-HABITAT,,,,,line
+#11-6-1,notstarted,"UN-Habitat, UNSD",True,,United States,,
+#11-6-2,complete,World Health Organization (WHO),,,United States,micrograms per cubic meter,line
+#11-7-1,notstarted,UN-HABITAT,True,,United States,,
 #11-7-2,notstarted,"United Nations Office on Drugs and Crime (UNODC)
-",,,,,line
+",True,,United States,,
 #11-a-1,notstarted,"UN-Habitat
-UNFPA",,,,,line
-#11-b-1,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#11-b-2,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#12-1-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#12-2-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#12-2-2,complete,United Nations Environment Programme (UNEP),,,,,line
-#12-3-1,notstarted,The Food and Agriculture Organization of the United Nations,,,,,line
-#12-4-1,complete,United Nations Environment Programme (UNEP),,,,,line
-#12-4-2,notstarted,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,line
-#12-5-1,notstarted,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,line
+UNFPA",True,,United States,,
+#11-b-1,complete,United Nations Office for Disaster Reduction (UNISDR),,,United States,Yes/No,binary
+#11-b-2,complete,United Nations Office for Disaster Reduction (UNISDR),,,United States,Yes/No,binary
+#12-1-1,notstarted,United Nations Environment Programme (UNEP),True,,United States,,
+#12-2-1,notstarted,United Nations Environment Programme (UNEP),True,,United States,,
+#12-2-2,complete,United Nations Environment Programme (UNEP),,,United States,"Domestic Material Consumption: Millions of Dollars, Per Capita: Dollars",line
+#12-3-1,notstarted,The Food and Agriculture Organization of the United Nations,True,,United States,,
+#12-4-1,complete,United Nations Environment Programme (UNEP),,,United States,Yes/No,binary
+#12-4-2,notstarted,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",True,,United States,,
+#12-5-1,inprogress,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",True,,United States,,
 #12-6-1,notstarted,"United Nations Conference on Trade and Development (UNCTAD)
-United Nations Environment Programme (UNEP)",,,,,line
-#12-7-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+United Nations Environment Programme (UNEP)",True,,United States,,
+#12-7-1,notstarted,United Nations Environment Programme (UNEP),True,,United States,,
 #12-8-1,notstarted,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
-UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
-#12-a-1,notstarted,International Renewable Energy Agency (IRENA),,,,,line
-#12-b-1,notstarted,World Tourism Organization (UNWTO),,,,,line
-#12-c-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#13-1-1,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#13-1-2,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#13-1-3,complete,United Nations Office for Disaster Reduction (UNISDR),,,,,line
-#13-2-1,complete,UN Climate Change (UNFCCC Secretariat),,,,,line
+UNESCO Institute for Statistics (UNESCO-UIS)",True,,United States,,
+#12-a-1,notstarted,International Renewable Energy Agency (IRENA),True,,United States,,
+#12-b-1,notstarted,World Tourism Organization (UNWTO),True,,United States,,
+#12-c-1,notstarted,United Nations Environment Programme (UNEP),True,,United States,,
+#13-1-1,complete,United Nations Office for Disaster Reduction (UNISDR),,,United States,Yes/no,binary
+#13-1-2,complete,United Nations Office for Disaster Reduction (UNISDR),,,United States,Yes/No,binary
+#13-1-3,complete,United Nations Office for Disaster Reduction (UNISDR),,,United States,Yes/No,binary
+#13-2-1,complete,UN Climate Change (UNFCCC Secretariat),,,United States,Yes/No,binary
 #13-2-2,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
 #13-3-1,complete,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
-UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
-#13-3-2,complete,,,,,,line
-#13-a-1,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
-#13-b-1,complete,UN Climate Change (UNFCCC Secretariat),,,,,line
-#14-1-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#14-2-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#14-3-1,notstarted,Intergovernmental Oceanographic Commission (IOC) of UNESCO,,,,,line
-#14-4-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+UNESCO Institute for Statistics (UNESCO-UIS)",,,United States,Yes/no,binary
+#13-3-2,complete,,,,United States,Yes/No,binary
+#13-a-1,notstarted,UN Climate Change (UNFCCC Secretariat),True,,United States,,
+#13-b-1,complete,UN Climate Change (UNFCCC Secretariat),,,United States,Yes/no,binary
+#14-1-1,notstarted,United Nations Environment Programme (UNEP),True,,United States,,
+#14-2-1,notstarted,United Nations Environment Programme (UNEP),True,,United States,,
+#14-3-1,notstarted,Intergovernmental Oceanographic Commission (IOC) of UNESCO,True,,United States,,
+#14-4-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,United States,Percentage of stocks at sustainable level,line
 #14-5-1,complete,"BirdLife International (BLI)
 International Union for Conservation of Nature (IUCN)
 UN Environment World Conservation Monitoring Centre (UNEP-WCMC)
-UN Environment",,,,,line
-#14-6-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#14-7-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#14-a-1,notstarted,Intergovernmental Oceanographic Commission of UNESCO,,,,,line
-#14-b-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#14-c-1,notstarted,"Division for Ocean Affairs and the Law of the Sea, Office of Legal Affairs, United Nations Secretariat",,,,,line
-#15-1-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+UN Environment",,,United States,Percent,line
+#14-6-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#14-7-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#14-a-1,notstarted,Intergovernmental Oceanographic Commission of UNESCO,True,,United States,,
+#14-b-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#14-c-1,notstarted,"Division for Ocean Affairs and the Law of the Sea, Office of Legal Affairs, United Nations Secretariat",True,,United States,,
+#15-1-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,United States,Percent,bar
 #15-1-2,notstarted,"BirdLife International (BLI)
 International Union for Conservation of Nature (IUCN)
 UN Environment World Conservation Monitoring Centre (UNEP-WCMC)
-UN Environment",,,,,line
-#15-2-1,notstarted,Food and Agriculture Organization of the United Nations (FAO) ,,,,,line
-#15-3-1,notstarted,"United Nations Convention to Combat Desertification (UNCCD) and partners, including: Conservation International (CI), European Space Agency (ESA), Food and Agriculture Organization of the United Nations (FAO), Group on Earth Observation Land Degradation Neutrality Initiative (GEO-LDN), International Soil Reference and Information Centre (ISRIC), International Union for Conservation of Nature (IUCN), Joint Research Centre of the European Commission (JRC), United Nations Statistics Division (UNSD), United Nations Development Programme (UNDP), United Nations Environment (UNEP), World Resources Institute (WRI), United Nations Framework Convention on Climate Change (UNFCCC) and Convention on Biological Diversity (CBD).",,,,,line
+UN Environment",True,,United States,,
+#15-2-1,notstarted,Food and Agriculture Organization of the United Nations (FAO) ,True,,United States,,
+#15-3-1,notstarted,"United Nations Convention to Combat Desertification (UNCCD) and partners, including: Conservation International (CI), European Space Agency (ESA), Food and Agriculture Organization of the United Nations (FAO), Group on Earth Observation Land Degradation Neutrality Initiative (GEO-LDN), International Soil Reference and Information Centre (ISRIC), International Union for Conservation of Nature (IUCN), Joint Research Centre of the European Commission (JRC), United Nations Statistics Division (UNSD), United Nations Development Programme (UNDP), United Nations Environment (UNEP), World Resources Institute (WRI), United Nations Framework Convention on Climate Change (UNFCCC) and Convention on Biological Diversity (CBD).",True,,United States,,
 #15-4-1,notstarted,"BirdLife International (BLI)
 International Union for Conservation of Nature (IUCN)
 UN Environment World Conservation Monitoring Centre (UNEP-WCMC)
-UN Environment",,,,,line
-#15-4-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#15-5-1,notstarted,International Union for Conservation of Nature (IUCN),,,,,line
-#15-6-1,notstarted,Secretariat of the Convention on Biological Diversity (CBD),,,,,line
-#15-7-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#15-8-1,notstarted,International Union for Conservation of Nature (IUCN),,,,,line
-#15-9-1,notstarted,"United Nations Environment Programme (UNEP), Convention on Biological Diversity (CBD), United Nations Statistics Division (UNSD) ",,,,,line
-#15-a-1,notstarted,Organisation for Economic Cooperation and Development (OECD),,,,,line
-#15-b-1,notstarted,Organisation for Economic Cooperation and Development (OECD),,,,,line
-#15-c-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-1-1,complete,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",,,,,line
-#16-1-2,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
-#16-1-3,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-1-4,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-10-1,notstarted,"Office of the United Nations High Commissioner for Human Rights (OHCHR) United Nations Educational, Scientific and Cultural Organization (UNESCO) International Labour Organization (ILO)",,,,,line
-#16-10-2,notstarted,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,,,line
-#16-2-1,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#16-2-2,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-2-3,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#16-3-1,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-3-2,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
+UN Environment",True,,United States,,
+#15-4-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#15-5-1,notstarted,International Union for Conservation of Nature (IUCN),True,,United States,,
+#15-6-1,notstarted,Secretariat of the Convention on Biological Diversity (CBD),True,,United States,,
+#15-7-1,notstarted,United Nations Office on Drugs and Crime (UNODC),True,,United States,,
+#15-8-1,notstarted,International Union for Conservation of Nature (IUCN),True,,United States,,line
+#15-9-1,notstarted,"United Nations Environment Programme (UNEP), Convention on Biological Diversity (CBD), United Nations Statistics Division (UNSD) ",True,,United States,,
+#15-a-1,notstarted,Organisation for Economic Cooperation and Development (OECD),True,,United States,,
+#15-b-1,notstarted,Organisation for Economic Cooperation and Development (OECD),True,,United States,,
+#15-c-1,notstarted,United Nations Office on Drugs and Crime (UNODC),True,,United States,,
+#16-1-1,complete,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",,,United States,"Estimated volume number and rate per 100,000							",line
+#16-1-2,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),True,,United States,,
+#16-1-3,notstarted,United Nations Office on Drugs and Crime (UNODC),True,,United States,,
+#16-1-4,complete,United Nations Office on Drugs and Crime (UNODC),,,United States,Randomly selected adult,line
+#16-10-1,notstarted,"Office of the United Nations High Commissioner for Human Rights (OHCHR) United Nations Educational, Scientific and Cultural Organization (UNESCO) International Labour Organization (ILO)",True,,United States,,
+#16-10-2,notstarted,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",True,,United States,,
+#16-2-1,notstarted,United Nations Children&apos;s Fund (UNICEF),True,,United States,,
+#16-2-2,complete,United Nations Office on Drugs and Crime (UNODC),,,United States,"The total number of human trafficking offenses reported, the total number of human trafficking - commercial sex acts offenses reported, the total number of human trafficking - involuntary servitude offenses reported, the number of agencies reporting human trafficking offenses, and the estimated population of the reporting agencies.  						",bar
+#16-2-3,notstarted,United Nations Children&apos;s Fund (UNICEF),True,,United States,,
+#16-3-1,complete,United Nations Office on Drugs and Crime (UNODC),,,United States,"Percentage of all violent victimizations (including rape/sexual assault, robbery, aggravated assault and simple assault)",line
+#16-3-2,complete,United Nations Office on Drugs and Crime (UNODC),,,United States,Persons held in prison or jail,line
 #16-3-3,notstarted,"United Nations Development Programme (UNDP), United Nations Office on Drugs and Crime (UNODC) and Organization for Economic Cooperation and Development (OECD)",,,,,line
-#16-4-1,notstarted,United Nations Office on Drugs and Crime (UNODC) and United Nations Conference on Trade and Development (UNCTAD),,,,,line
-#16-4-2,notstarted,UNODC and UNODA,,,,,line
-#16-5-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
-#16-5-2,notstarted,World Bank (WB),,,,,line
-#16-6-1,notstarted,World Bank (WB),,,,,line
-#16-6-2,notstarted,United Nations Development Programme (UNDP) ,,,,,line
-#16-7-1,notstarted,UNDP Oslo Governance Centre,,,,,line
-#16-7-2,notstarted,UNDP Oslo Governance Centre,,,,,line
+#16-4-1,notstarted,United Nations Office on Drugs and Crime (UNODC) and United Nations Conference on Trade and Development (UNCTAD),True,,United States,,
+#16-4-2,notstarted,UNODC and UNODA,True,,United States,,
+#16-5-1,notstarted,United Nations Office on Drugs and Crime (UNODC),True,,United States,,
+#16-5-2,notstarted,World Bank (WB),True,,United States,,
+#16-6-1,notstarted,World Bank (WB),True,,United States,,
+#16-6-2,notstarted,United Nations Development Programme (UNDP) ,True,,United States,,
+#16-7-1,notstarted,UNDP Oslo Governance Centre,True,,United States,,
+#16-7-2,notstarted,UNDP Oslo Governance Centre,True,,United States,,
 #16-8-1,notstarted,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
-",,,,,line
-#16-9-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#16-a-1,notstarted,United Nations Office of the High Commissioner for Human Rights,,,,,line
-#16-b-1,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
-#17-1-1,complete,International Monetary Fund (IMF) Statistics Department (Government Finance Division),,,,,line
-#17-1-2,notstarted,International Monetary Fund (IMF) Statistics Department (Government Finance Division),,,,,line
+",True,,United States,,
+#16-9-1,complete,United Nations Children&apos;s Fund (UNICEF),,,United States,,line
+#16-a-1,notstarted,United Nations Office of the High Commissioner for Human Rights,True,,United States,,
+#16-b-1,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),True,,United States,,
+#17-1-1,complete,International Monetary Fund (IMF) Statistics Department (Government Finance Division),,,United States,Percentage,line
+#17-1-2,notstarted,International Monetary Fund (IMF) Statistics Department (Government Finance Division),True,,United States,,
 #17-10-1,notstarted,"International Trade Centre (ITC)
 United Nations Conference on Trade and Development (UNCTAD)
-The World Trade Organization (WTO)",,,,,line
+The World Trade Organization (WTO)",True,,United States,,
 #17-11-1,notstarted,"International Trade Centre (ITC)
 United Nations Conference on Trade and Development (UNCTAD)
-The World Trade Organization (WTO)",,,,,line
+The World Trade Organization (WTO)",True,,United States,,
 #17-12-1,notstarted,"International Trade Centre (ITC)
 United Nations Conference on Trade and Development (UNCTAD)
-The World Trade Organization (WTO)",,,,,line
-#17-13-1,complete,World Bank,,,,,line
-#17-14-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
+The World Trade Organization (WTO)",True,,United States,,
+#17-13-1,complete,World Bank,,,United States,Yes/No,binary
+#17-14-1,notstarted,United Nations Environment Programme (UNEP),True,,United States,,
 #17-15-1,notstarted,"Organisation for Economic Co-operation and Development (OECD)
-United Nations Development Programme (UNDP)",,,,,line
+United Nations Development Programme (UNDP)",True,,United States,,
 #17-16-1,notstarted,"Organisation for Economic Co-operation and Development (OECD)
-United Nations Development Programme (UNDP)",,,,,line
-#17-17-1,notstarted,World Bank,,,,,line
-#17-18-1,complete,Open Data Watch (ODW),,,,,line
-#17-18-2,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
-#17-18-3,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
-#17-19-1,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
-#17-19-2,complete,United Nations Statistics Division (UNSD),,,,,line
-#17-2-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#17-3-1,notstarted,International Forum on TOSSD (independent entity hosted by the OECD) and UNCTAD,,,,,line
-#17-3-2,complete,World Bank (WB),,,,,line
-#17-4-1,complete,World Bank (WB),,,,,line
-#17-5-1,notstarted,United Nations Conference on Trade and Development (UNCTAD),,,,,line
-#17-6-1,notstarted,International Telecommunication Union (ITU),,,,,line
-#17-6-2,complete,,,,,,line
-#17-7-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#17-8-1,notstarted,International Telecommunication Union (ITU),,,,,line
-#17-9-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#2-1-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-1-2,complete,Food and Agriculture Organisation of the United Nations (FAO),,,,,line
+United Nations Development Programme (UNDP)",True,,United States,,
+#17-17-1,notstarted,World Bank,True,,United States,,
+#17-18-1,notstarted,Open Data Watch (ODW),True,,United States,,
+#17-18-2,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),,,United States,Yes/no,binary
+#17-18-3,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),,,United States,Yes/No,binary
+#17-19-1,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),True,,United States,,
+#17-19-2,complete,United Nations Statistics Division (UNSD),,,United States,,binary
+#17-2-1,notstarted,Organisation for Economic Co-operation and Development (OECD),True,,United States,,
+#17-3-1,notstarted,International Forum on TOSSD (independent entity hosted by the OECD) and UNCTAD,True,,United States,,
+#17-3-2,complete,World Bank (WB),,,United States,Percentage,line
+#17-4-1,complete,World Bank (WB),,,United States,Percentage,line
+#17-5-1,notstarted,United Nations Conference on Trade and Development (UNCTAD),True,,United States,,
+#17-6-1,notstarted,International Telecommunication Union (ITU),True,,United States,,
+#17-6-2,complete,,,,United States,Straight counts rounded to the nearest thousand,line
+#17-7-1,notstarted,United Nations Environment Programme (UNEP),True,,United States,,
+#17-8-1,complete,International Telecommunication Union (ITU),,,United States,Proportion,line
+#17-9-1,notstarted,Organisation for Economic Co-operation and Development (OECD),True,,United States,,
+#2-1-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#2-1-2,complete,Food and Agriculture Organisation of the United Nations (FAO),,,United States,Percent of households with food insecurity in the US,line
 #2-2-1,complete,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)
-World Bank (WB)",,,,,line
+World Bank (WB)",,,United States,,bar
 #2-2-2,complete,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)
-World Bank (WB)",,,,,line
+World Bank (WB)",,,United States,,bar
 #2-2-3,notstarted,World Health Organization (WHO),,,,,line
-#2-3-1,notstarted,Food and Agriculture Organization (FAO),,,,,line
-#2-3-2,notstarted,Food and Agriculture Organization (FAO),,,,,line
-#2-4-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-5-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-5-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-a-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#2-a-2,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#2-b-1,notstarted,The World Trade Organization (WTO),,,,,line
-#2-c-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#3-1-1,notstarted,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,,,,,line
-#3-1-2,complete,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,,,line
-#3-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#3-2-2,complete,United Nations Children&apos;s Fund (UNICEF) ,,,,,line
-#3-3-1,complete,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,,,line
-#3-3-2,complete,World Health Organization (WHO),,,,,line
-#3-3-3,complete,Global Malaria Programme at World Health Organization (WHO),,,,,line
-#3-3-4,complete,World Health Organization ,,,,,line
-#3-3-5,notstarted,World Health Organization (WHO),,,,,line
-#3-4-1,complete,World Health Organization (WHO) ,,,,,line
-#3-4-2,complete,World Health Organization (WHO) ,,,,,line
+#2-3-1,notstarted,Food and Agriculture Organization (FAO),True,,United States,,
+#2-3-2,notstarted,Food and Agriculture Organization (FAO),True,,United States,,
+#2-4-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#2-5-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#2-5-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#2-a-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#2-a-2,notstarted,Organisation for Economic Co-operation and Development (OECD),True,,United States,,
+#2-b-1,notstarted,The World Trade Organization (WTO),True,,United States,,
+#2-c-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#3-1-1,notstarted,World Health Organization (WHO). Department of Sexual and Reproductive Health and Research.,True,,United States,,
+#3-1-2,complete,United Nations Children&#x2019;s Fund (UNICEF) and World Health Organization (WHO),,,United States,,line
+#3-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,United States,Individual,line
+#3-2-2,complete,United Nations Children&apos;s Fund (UNICEF) ,,,United States,,line
+#3-3-1,complete,The Joint United Nations Programme on HIV/AIDS (UNAIDS),,,United States,"Number of new HIV diagnoses per 100,000 population",line
+#3-3-2,complete,World Health Organization (WHO),,,United States,"Number of cases per 100,000 population",line
+#3-3-3,complete,Global Malaria Programme at World Health Organization (WHO),,,United States,,binary
+#3-3-4,complete,World Health Organization ,,,United States,"cases per 100,000 population",line
+#3-3-5,notstarted,World Health Organization (WHO),True,,United States,,
+#3-4-1,complete,World Health Organization (WHO) ,,,United States,,line
+#3-4-2,complete,World Health Organization (WHO) ,,,United States,,line
 #3-5-1,notstarted,"World Health Organization (WHO) 
-United Nations Office on Drugs and Crime (UNODC) ",,,,,line
-#3-5-2,complete,World Health Organization (WHO) ,,,,,line
-#3-6-1,complete,World Health Organization (WHO) ,,,,,line
+United Nations Office on Drugs and Crime (UNODC) ",True,,United States,,
+#3-5-2,complete,World Health Organization (WHO) ,,,United States,Current (past month or past 30 days) binge alcohol and heavy alcohol use data. The 30 days reference the date of interview completed through the annual NSDUH data collection.,bar
+#3-6-1,complete,World Health Organization (WHO) ,,,United States,,line
 #3-7-1,complete,"Population Division, Department of Economic and Social Affairs (DESA)
-United Nations Population Fund (UNFPA)",,,,,line
+United Nations Population Fund (UNFPA)",,,United States,,bar
 #3-7-2,complete,"Population Division, Department of Economic and Social Affairs (DESA) 
-United Nations Population Fund (UNFPA)",,,,,line
-#3-8-1,notstarted,World Health Organization (WHO) ,,,,,line
-#3-8-2,notstarted,World Health Organization (WHO) and the World Bank,,,,,line
-#3-9-1,notstarted,World Health Organization (WHO),,,,,line
-#3-9-2,notstarted,World Health Organization (WHO),,,,,line
+United Nations Population Fund (UNFPA)",,,United States,,line
+#3-8-1,notstarted,World Health Organization (WHO) ,True,,United States,,
+#3-8-2,notstarted,World Health Organization (WHO) and the World Bank,True,,United States,,
+#3-9-1,notstarted,World Health Organization (WHO),True,,United States,,line
+#3-9-2,notstarted,World Health Organization (WHO),True,,United States,,
 #3-9-3,complete,"World Health Organization (WHO)
- ",,,,,line
-#3-a-1,complete,World Health Organization; Secretariat of the WHO Framework Convention on Tobacco Control (co-custodians) ,,,,,line
-#3-b-1,notstarted,"World Health Organization (WHO), United Nations Children&#x2019;s Fund (UNICEF) ",,,,,line
-#3-b-2,notstarted,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
-#3-b-3,notstarted,World Health Organization (WHO),,,,,line
-#3-c-1,complete,"Health Workforce Department, World Health Organization (WHO)",,,,,line
-#3-d-1,notstarted,World Health Organization (WHO),,,,,line
+ ",,,United States,,line
+#3-a-1,complete,World Health Organization; Secretariat of the WHO Framework Convention on Tobacco Control (co-custodians) ,,,United States,,line
+#3-b-1,notstarted,"World Health Organization (WHO), United Nations Children&#x2019;s Fund (UNICEF) ",True,,United States,,
+#3-b-2,notstarted,Organisation for Economic Co-operation and Development (OECD) ,True,,United States,,line
+#3-b-3,notstarted,World Health Organization (WHO),True,,United States,,
+#3-c-1,complete,"Health Workforce Department, World Health Organization (WHO)",,,United States,Number of health care workers (per 1000 population),line
+#3-d-1,notstarted,World Health Organization (WHO),True,,United States,,
 #3-d-2,notstarted,World Health Organization (WHO) ,,,,,line
-#4-1-1,complete,UNESCO Institute of Statistics (UIS),,,,,line
+#4-1-1,complete,UNESCO Institute of Statistics (UIS),,,United States,Percentage,line
 #4-1-2,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
-#4-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#4-2-2,complete,UNESCO Institute for Statistics (UIS),,,,,line
-#4-3-1,complete,UNESCO Institute for Statistics (UIS),,,,,line
-#4-4-1,complete,International Telecommunication Union (ITU),,,,,line
-#4-5-1,complete,UNESCO Institute for Statistics (UIS),,,,,line
-#4-6-1,complete,UNESCO Institute for Statistics (UIS),,,,,line
+#4-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,United States,Measures described in indicator description,bar
+#4-2-2,complete,UNESCO Institute for Statistics (UIS),,,United States,Child,line
+#4-3-1,complete,UNESCO Institute for Statistics (UIS),,,United States,Percentage,bar
+#4-4-1,complete,International Telecommunication Union (ITU),,,United States,Percentage,bar
+#4-5-1,complete,UNESCO Institute for Statistics (UIS),,,United States,Percentages or scores,line
+#4-6-1,complete,UNESCO Institute for Statistics (UIS),,,United States,Percentage,bar
 #4-7-1,complete,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
-UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
-#4-a-1,complete,UNESCO Institute for Statistics (UIS),,,,,line
-#4-b-1,complete,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#4-c-1,complete,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
-#5-1-1,notstarted,"UN Women, World Bank Group, OECD Development Centre",,,,,line
+UNESCO Institute for Statistics (UNESCO-UIS)",,,United States,Percentage,bar
+#4-a-1,complete,UNESCO Institute for Statistics (UIS),,,United States,Percent.,line
+#4-b-1,complete,Organisation for Economic Co-operation and Development (OECD),,,United States,Dollar,bar
+#4-c-1,complete,UNESCO Institute for Statistics (UNESCO-UIS),,,United States,Teacher,line
+#5-1-1,notstarted,"UN Women, World Bank Group, OECD Development Centre",True,,United States,,
 #5-2-1,complete,"World Health Organization (WHO)
 United Nations Children&apos;s Fund (UNICEF)
 United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
 United Nations Office on Drugs and Crime (UNODC)
 United Nations Population Fund (UNFPA)
-United Nations Statistics Division (UNSD)",,,,,line
+United Nations Statistics Division (UNSD)",,,United States,Estimated Volume Number,bar
 #5-2-2,notstarted,"United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
 United Nations Children&apos;s Fund (UNICEF)
 United Nations Statistics Division (UNSD)
 World Health Organization (WHO)
-United Nations Population Fund (UNFPA)",,,,,line
-#5-3-1,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#5-3-2,notstarted,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#5-4-1,complete,UN Statistics Division (UNSD) and UN WOMEN,,,,,line
-#5-5-1,complete,United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women),,,,,line
-#5-5-2,complete,International Labour Organization (ILO),,,,,line
-#5-6-1,notstarted,United Nations Population Fund (UNFPA),,,,,line
-#5-6-2,notstarted,United Nations Population Fund (UNFPA),,,,,line
-#5-a-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#5-a-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#5-b-1,complete,International Telecommunication Union (ITU),,,,,line
-#5-c-1,notstarted,United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) in collaboration with Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP),,,,,line
+United Nations Population Fund (UNFPA)",True,,United States,,line
+#5-3-1,notstarted,United Nations Children&apos;s Fund (UNICEF),True,,United States,,
+#5-3-2,notstarted,United Nations Children&apos;s Fund (UNICEF),True,,United States,,
+#5-4-1,complete,UN Statistics Division (UNSD) and UN WOMEN,,,United States,Average hours per day,line
+#5-5-1,complete,United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women),,,United States,Percent,line
+#5-5-2,complete,International Labour Organization (ILO),,,United States,,line
+#5-6-1,notstarted,United Nations Population Fund (UNFPA),True,,United States,,
+#5-6-2,notstarted,United Nations Population Fund (UNFPA),True,,United States,,
+#5-a-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#5-a-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#5-b-1,complete,International Telecommunication Union (ITU),,,United States,Proportion ,line
+#5-c-1,notstarted,United Nations Entity for Gender Equality and the Empowerment of Women (UN Women) in collaboration with Organisation for Economic Co-operation and Development (OECD) and United Nations Development Programme (UNDP),True,,United States,,
 #6-1-1,complete,"World Health Organization (WHO)
-United Nations Children&apos;s Fund (UNICEF)",,,,,line
+United Nations Children&apos;s Fund (UNICEF)",,,United States,Population,line
 #6-2-1,notstarted,"World Health Organization (WHO)
-United Nations Children&apos;s Fund (UNICEF)",,,,,line
+United Nations Children&apos;s Fund (UNICEF)",True,,United States,,
 #6-3-1,notstarted,"United Nations Human Settlements Programme (UN-Habitat)
 World Health Organization (WHO)
-United Nations Statistics Division (UNSD)",,,,,line
-#6-3-2,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#6-4-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#6-4-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
-#6-5-1,complete,United Nations Environment Programme (UNEP),,,,,line
+United Nations Statistics Division (UNSD)",True,,United States,,
+#6-3-2,notstarted,United Nations Environment Programme (UNEP),True,,United States,,
+#6-4-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#6-4-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
+#6-5-1,complete,United Nations Environment Programme (UNEP),,,United States,Acre-feet of water,bar
 #6-5-2,notstarted,"Intergovernmental Hydrological Programme of United Nations Educational, Scientific and Cultural Organization (UNESCO-IHP)
-United Nations Economic Commission for Europe (UNECE)",,,,,line
-#6-6-1,notstarted,Secretariat of the Ramsar Convention on Wetlands,,,,,line
+United Nations Economic Commission for Europe (UNECE)",True,,United States,,
+#6-6-1,notstarted,Secretariat of the Ramsar Convention on Wetlands,True,,United States,,
 #6-a-1,notstarted,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
-Organisation for Economic Co-operation and Development (OECD)",,,,,line
+Organisation for Economic Co-operation and Development (OECD)",True,,United States,,
 #6-b-1,notstarted,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
-Organisation for Economic Co-operation and Development (OECD)",,,,,line
-#7-1-1,complete,World Bank Group,,,,,line
-#7-1-2,notstarted,World Health Organization (WHO),,,,,line
+Organisation for Economic Co-operation and Development (OECD)",True,,United States,,
+#7-1-1,complete,World Bank Group,,,United States,Percent of households,line
+#7-1-2,notstarted,World Health Organization (WHO),True,,United States,,line
 #7-2-1,complete,"International Energy Agency (IEA) 
 United Nations Statistics Division (UNSD) 
-International Renewable Energy Agency (IRENA)",,,,,line
+International Renewable Energy Agency (IRENA)",,,United States,Quadrillion Btu,line
 #7-3-1,complete,"International Energy Agency (IEA) 
-United Nations Statistics Division (UNSD)",,,,,line
-#7-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
-#7-b-1,notstarted,International Renewable Energy Agency (IRENA),,,,,line
-#8-1-1,complete,United Nations Statistics Division (UNSD),,,,,line
-#8-10-1,complete,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,,line
-#8-10-2,complete,World Bank ,,,,,line
-#8-2-1,complete,International Labour Organization (ILO) ,,,,,line
-#8-3-1,complete,International Labour Organization (ILO),,,,,line
-#8-4-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
-#8-4-2,complete,United Nations Environment Programme (UNEP),,,,,line
-#8-5-1,complete,International Labour Organization (ILO),,,,,line
-#8-5-2,complete,International Labour Organization (ILO) ,,,,,line
-#8-6-1,complete,International Labour Organization (ILO),,,,,line
+United Nations Statistics Division (UNSD)",,,United States,"Energy intensity, defined as  thousand Btu per chained (2009) dollar",line
+#7-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),True,,United States,,
+#7-b-1,notstarted,International Renewable Energy Agency (IRENA),True,,United States,,
+#8-1-1,complete,United Nations Statistics Division (UNSD),,,United States,Percentage change,line
+#8-10-1,complete,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,United States,Number,line
+#8-10-2,complete,World Bank ,,,United States,Proportion,line
+#8-2-1,complete,International Labour Organization (ILO) ,,,United States,Percent change,line
+#8-3-1,notstarted,International Labour Organization (ILO),True,,United States,,
+#8-4-1,notstarted,United Nations Environment Programme (UNEP),True,,United States,,
+#8-4-2,complete,United Nations Environment Programme (UNEP),,,United States,"Domestic Material Consumption: Billions of Dollars, Per Capita: Dollars",line
+#8-5-1,complete,International Labour Organization (ILO),,,United States,Median weekly earnings in U.S. dollars.,line
+#8-5-2,complete,International Labour Organization (ILO) ,,,United States,Percent,line
+#8-6-1,complete,International Labour Organization (ILO),,,United States,Percent,line
 #8-7-1,notstarted,"United Nations Children&apos;s Fund (UNICEF)
-International Labour Organization (ILO)",,,,,line
-#8-8-1,complete,International Labour Organisation (ILO),,,,,line
-#8-8-2,notstarted,International Labour Organization (ILO),,,,,line
-#8-9-1,complete,World Tourism Organization (UNWTO) ,,,,,line
-#8-9-2,complete,,,,,,line
-#8-a-1,complete,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
-#8-b-1,notstarted,International Labour Organization (ILO) ,,,,,line
-#9-1-1,notstarted,World Bank,,,,,line
-#9-1-2,complete,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Conference on Trade and Development (UNCTAD).,,,,,line
-#9-2-1,complete,United Nations Industrial Development Organization (UNIDO),,,,,line
+International Labour Organization (ILO)",True,,United States,,
+#8-8-1,complete,International Labour Organisation (ILO),,,United States,"nonfatal: Cases per 10,000 fulltime workers, fatal: Cases per 100,000 fulltime workers",line
+#8-8-2,notstarted,International Labour Organization (ILO),True,,United States,,
+#8-9-1,complete,World Tourism Organization (UNWTO) ,,,United States,"Output (nominal and real levels, nominal and real growth rate), Prices (chained 2009 dollars, level and growth rate), Employment (level and growth rate)",line
+#8-9-2,complete,,,,United States,Thousands,line
+#8-a-1,complete,Organisation for Economic Co-operation and Development (OECD) ,,,United States,"U.S., Dollars, millions",line
+#8-b-1,notstarted,International Labour Organization (ILO) ,True,,United States,,
+#9-1-1,notstarted,World Bank,True,,United States,,
+#9-1-2,complete,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Conference on Trade and Development (UNCTAD).,,,United States,"Passenger-kilometers, metric tonnes",line
+#9-2-1,complete,United Nations Industrial Development Organization (UNIDO),,,United States,"As percentage of GDP: Percentage,   Per Capita: Dollars",line
 #9-2-2,complete,"United Nations Industrial Development Organization (UNIDO)
-(with the collaboration of the International Labour Organization &#x2013; ILO)",,,,,line
-#9-3-1,notstarted,United Nations Industrial Development Organization (UNIDO),,,,,line
+(with the collaboration of the International Labour Organization &#x2013; ILO)",,,United States,The ratio itself is simply the ratio of two employment series. The two employment series which are used to calculate this ratio are in millions of jobs.,line
+#9-3-1,notstarted,United Nations Industrial Development Organization (UNIDO),True,,United States,,
 #9-3-2,notstarted,"United Nations Industrial Development Organization (UNIDO)
-World Bank",,,,,line
+World Bank",True,,United States,,
 #9-4-1,complete,"International Energy Agency (IEA)
-United Nations Industrial Development Organization (UNIDO)",,,,,line
-#9-5-1,complete,UNESCO Institute for Statistics (UIS),,,,,line
-#9-5-2,notstarted,UNESCO Institute for Statistics (UIS) ,,,,,line
-#9-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#9-b-1,notstarted,United Nations Industrial Development Organization (UNIDO),,,,,line
-#9-c-1,complete,International Telecommunication Union (ITU),,,,,line
+United Nations Industrial Development Organization (UNIDO)",,,United States,Metric Tons Carbon Dioxide per Million Chained (2009) Dollars,line
+#9-5-1,complete,UNESCO Institute for Statistics (UIS),,,United States,percent,line
+#9-5-2,notstarted,UNESCO Institute for Statistics (UIS) ,True,,United States,,line
+#9-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD),True,,United States,,line
+#9-b-1,notstarted,United Nations Industrial Development Organization (UNIDO),True,,United States,,
+#9-c-1,complete,International Telecommunication Union (ITU),,,United States,,line
