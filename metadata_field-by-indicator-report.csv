@@ -50,7 +50,7 @@ UNFPA",True,,United States,,
 #12-1-1,notstarted,United Nations Environment Programme (UNEP),True,,United States,,
 #12-2-1,notstarted,United Nations Environment Programme (UNEP),True,,United States,,
 #12-2-2,complete,United Nations Environment Programme (UNEP),,,United States,"Domestic Material Consumption: Millions of Dollars, Per Capita: Dollars",line
-#12-3-1,notstarted,The Food and Agriculture Organization of the United Nations,True,,United States,,
+#12-3-1,notstarted,The Food and Agriculture Organization of the United Nations (FAO),True,,United States,,
 #12-4-1,complete,United Nations Environment Programme (UNEP),,,United States,Yes/No,binary
 #12-4-2,notstarted,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",True,,United States,,
 #12-5-1,inprogress,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",True,,United States,,
@@ -152,7 +152,7 @@ United Nations Development Programme (UNDP)",True,,United States,,
 #17-18-2,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),,,United States,Yes/no,binary
 #17-18-3,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),,,United States,Yes/No,binary
 #17-19-1,notstarted,Partnership in Statistics for Development in the 21st Century (PARIS21),True,,United States,,
-#17-19-2,complete,United Nations Statistics Division (UNSD),,,United States,,binary
+#17-19-2,complete,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations",,,United States,,binary
 #17-2-1,notstarted,Organisation for Economic Co-operation and Development (OECD),True,,United States,,
 #17-3-1,notstarted,International Forum on TOSSD (independent entity hosted by the OECD) and UNCTAD,True,,United States,,
 #17-3-2,complete,World Bank (WB),,,United States,Percentage,line
@@ -262,7 +262,7 @@ United Nations Statistics Division (UNSD)",True,,United States,,
 #6-5-1,complete,United Nations Environment Programme (UNEP),,,United States,Acre-feet of water,bar
 #6-5-2,notstarted,"Intergovernmental Hydrological Programme of United Nations Educational, Scientific and Cultural Organization (UNESCO-IHP)
 United Nations Economic Commission for Europe (UNECE)",True,,United States,,
-#6-6-1,notstarted,Secretariat of the Ramsar Convention on Wetlands,True,,United States,,
+#6-6-1,notstarted,United Nations Environment Programme (UNEP),True,,United States,,
 #6-a-1,notstarted,"World Health Organization (WHO)
 United Nations Environment Programme (UNEP)
 Organisation for Economic Co-operation and Development (OECD)",True,,United States,,
