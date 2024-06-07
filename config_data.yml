@@ -57,7 +57,7 @@ inputs:
     # "data" (the folder where the data files actually exist.) Most sites will not
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
-    git_data_dir: data-wide
+    git_data_dir: data
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
 
