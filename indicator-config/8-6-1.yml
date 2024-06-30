@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,14 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.8-6-1-title
+graph_title:  Percent of US population 16 to 24 years who are not enrolled in school
+  and are either unemployed or not in the labor force
 graph_titles: []
 graph_type: line
+indicator_available:  Percent of US population 16 to 24 years who are not enrolled
+  in school and are either unemployed or not in the labor force
 indicator_name: global_indicators.8-6-1-title
-indicator_number: '8.6.1'
+indicator_number: 8.6.1
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''

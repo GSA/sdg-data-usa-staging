@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,14 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.8-5-1-title
+graph_title:  Median weekly earnings in US dollars of women ages 16 and over who indicated
+  they have a disability, employed as full-time wage and salary workers
 graph_titles: []
 graph_type: line
+indicator_available:  Median weekly earnings in US dollars of women ages 16 and over
+  who indicated they have a disability, employed as full-time wage and salary workers
 indicator_name: global_indicators.8-5-1-title
-indicator_number: '8.5.1'
+indicator_number: 8.5.1
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''

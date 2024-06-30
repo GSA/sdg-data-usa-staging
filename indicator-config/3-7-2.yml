@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,14 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.3-7-2-title
+graph_title: US adolescent birth rate (aged 15-19 years) per 1,000 women in that age
+  group
 graph_titles: []
 graph_type: line
+indicator_available: US adolescent birth rate (aged 15-19 years) per 1,000 women in
+  that age group
 indicator_name: global_indicators.3-7-2-title
-indicator_number: '3.7.2'
+indicator_number: 3.7.2
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''

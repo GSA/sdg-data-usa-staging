@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,16 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.17-19-2-title
+graph_title: Has the US completed at least one population and housing census in the
+  last 10 years? Has the US achieved 100 percent birth registration and at least 80
+  percent death registration?
 graph_titles: []
 graph_type: line
+indicator_available: Has the US completed at least one population and housing census
+  in the last 10 years? Has the US achieved 100 percent birth registration and at
+  least 80 percent death registration?
 indicator_name: global_indicators.17-19-2-title
-indicator_number: '17.19.2'
+indicator_number: 17.19.2
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
