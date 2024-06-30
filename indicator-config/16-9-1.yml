@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.16-9-1-title
+graph_title: Percent of US births registered in all 50 states and the District of
+  Columbia
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.16-9-1-title
-indicator_number: '16.9.1'
+indicator_number: 16.9.1
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''

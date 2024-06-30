@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.4-1-1-title
+graph_title: 'Percentage of 4th and 8th grade students at or above "Basic" proficiency
+  in reading and mathematics National Assessment of Educational Progress (NAEP) assessments '
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.4-1-1-title
-indicator_number: '4.1.1'
+indicator_number: 4.1.1
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''

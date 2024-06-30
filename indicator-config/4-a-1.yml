@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.4-a-1-title
+graph_title: Percentage of public schools with Internet access for student use. Estimated
+  percentage of public schools with basic drinking water, sanitation facilities, and
+  hand washing facilities.
 graph_titles: []
 graph_type: line
 indicator_name: global_indicators.4-a-1-title
-indicator_number: '4.a.1'
+indicator_number: 4.a.1
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
