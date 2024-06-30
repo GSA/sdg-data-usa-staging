@@ -43,9 +43,6 @@ inputs:
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
-  - class: InputYamlMeta
-    path_pattern: indicator-config/*-*.yml
-    git: false
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.md
@@ -58,6 +55,9 @@ inputs:
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
+  - class: InputYamlMeta
+    path_pattern: indicator-config/*-*.yml
+    git: false
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
 
