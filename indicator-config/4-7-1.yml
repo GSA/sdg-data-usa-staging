@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Percentage of 8th grade respondents who are in public and private schools
-  that emphasize "world affairs" to a moderate or great extent. '
+graph_title: Percentage of US 8th graders attending public or private schools that
+  emphasize "world affairs" to a moderate or great extent
 graph_titles: []
 graph_type: line
+indicator_available: 'Percentage of 8th grade respondents who are in public and private
+  schools that emphasize "world affairs" to a moderate or great extent. '
 indicator_name: global_indicators.4-7-1-title
 indicator_number: 4.7.1
 national_geographical_coverage: ''

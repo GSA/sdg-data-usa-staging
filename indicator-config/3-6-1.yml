@@ -17,9 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Death rate due to road traffic injuries
+graph_title: Age-adjusted rate of deaths due to road traffic injuries per 100,000
+  US population
 graph_titles: []
 graph_type: line
+indicator_available: Death rate due to road traffic injuries
 indicator_name: global_indicators.3-6-1-title
 indicator_number: 3.6.1
 national_geographical_coverage: ''

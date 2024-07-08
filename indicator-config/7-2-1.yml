@@ -17,9 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Renewable energy consumption as a percentage of total final energy consumption
+graph_title: US renewable energy consumption as a percentage of total final energy
+  consumption
 graph_titles: []
 graph_type: line
+indicator_available: Renewable energy consumption as a percentage of total final energy
+  consumption
 indicator_name: global_indicators.7-2-1-title
 indicator_number: 7.2.1
 national_geographical_coverage: ''

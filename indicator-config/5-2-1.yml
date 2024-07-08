@@ -17,10 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Estimated Number of Rape - Revised and Legacy Definitions Reported to
-  the FBI UCR Program.
+graph_title: Estimated number of rapes in US
 graph_titles: []
 graph_type: line
+indicator_available: Estimated Number of Rape - Revised and Legacy Definitions Reported
+  to the FBI UCR Program.
 indicator_name: global_indicators.5-2-1-title
 indicator_number: 5.2.1
 national_geographical_coverage: ''

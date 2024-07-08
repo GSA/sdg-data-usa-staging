@@ -17,12 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Submitted U.S. reports under the Montreal Protocol. Note: of the other
-  four MEAs covered under this indicator, the United States is not Party to three
-  (Basel Rotterdam, and Stockholm Conventions) and the Minamata Convention had not
-  yet entered into force during this reporting period).'
+graph_title: Is the US in compliance with the Montreal Protocol ?
 graph_titles: []
 graph_type: line
+indicator_available: 'Submitted U.S. reports under the Montreal Protocol. Note: of
+  the other four MEAs covered under this indicator, the United States is not Party
+  to three (Basel Rotterdam, and Stockholm Conventions) and the Minamata Convention
+  had not yet entered into force during this reporting period).'
 indicator_name: global_indicators.12-4-1-title
 indicator_number: 12.4.1
 national_geographical_coverage: ''

@@ -17,10 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentage of current use of any method of contraception among US women
-  aged 15-44
+graph_title: Percentage of US women ages 15-44 currently using any method of contraception
 graph_titles: []
 graph_type: line
+indicator_available: Percentage of current use of any method of contraception among
+  US women aged 15-44
 indicator_name: global_indicators.3-7-1-title
 indicator_number: 3.7.1
 national_geographical_coverage: ''

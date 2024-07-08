@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: The Fish Stock Sustainability Index (FSSI)
+graph_title: Percentage of US fish stocks at a sustainable level
 graph_titles: []
 graph_type: line
+indicator_available: The Fish Stock Sustainability Index (FSSI)
 indicator_name: global_indicators.14-4-1-title
 indicator_number: 14.4.1
 national_geographical_coverage: ''

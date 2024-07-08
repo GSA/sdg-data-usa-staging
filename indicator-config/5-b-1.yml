@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Proportion of individuals who use an Internet-connected mobile telephone,
-  by sex
+graph_title: Percent of US females ages 3 and older who use an Internet-connected
+  mobile telephone
 graph_titles: []
 graph_type: line
+indicator_available: Proportion of individuals who use an Internet-connected mobile
+  telephone, by sex
 indicator_name: global_indicators.5-b-1-title
 indicator_number: 5.b.1
 national_geographical_coverage: ''

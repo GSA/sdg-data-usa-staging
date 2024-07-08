@@ -17,11 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Approaches to learning, interpersonal skills, self-control, health mathematics,
-  and reading performance of entering kindergarten students in the US (typically age
-  5),
+graph_title: Early math skills among US kindergarteners (typically age 5)
 graph_titles: []
 graph_type: line
+indicator_available: Approaches to learning, interpersonal skills, self-control, health
+  mathematics, and reading performance of entering kindergarten students in the US
+  (typically age 5),
 indicator_name: global_indicators.4-2-1-title
 indicator_number: 4.2.1
 national_geographical_coverage: ''

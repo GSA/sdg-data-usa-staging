@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Unemployment rate by disability status, sex, and age, 2009-16 annual
-  averages
+graph_title:  Unemployment rate among men with disability, ages 16 and older, 2009-16
+  annual averages
 graph_titles: []
 graph_type: line
+indicator_available: Unemployment rate by disability status, sex, and age, 2009-16
+  annual averages
 indicator_name: global_indicators.8-5-2-title
 indicator_number: 8.5.2
 national_geographical_coverage: ''

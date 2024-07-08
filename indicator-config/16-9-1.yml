@@ -21,6 +21,8 @@ graph_title: Percent of US births registered in all 50 states and the District o
   Columbia
 graph_titles: []
 graph_type: line
+indicator_available: Percent of US births registered in all 50 states and the District
+  of Columbia
 indicator_name: global_indicators.16-9-1-title
 indicator_number: 16.9.1
 national_geographical_coverage: ''

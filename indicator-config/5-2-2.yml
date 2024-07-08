@@ -20,6 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: See US data and metadata for indicator 5.2.1.
 graph_titles: []
 graph_type: line
+indicator_available: See US data and metadata for indicator 5.2.1.
 indicator_name: global_indicators.5-2-2-title
 indicator_number: 5.2.2
 national_geographical_coverage: ''

@@ -17,10 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Percentage of the U.S. population covered by at least a 3G mobile network.  Percentage
-  of the U.S. population covered by at least a 2G mobile network.  '
+graph_title: Percentage of the U.S. population covered by at least a 3G mobile network
 graph_titles: []
 graph_type: line
+indicator_available: 'Percentage of the U.S. population covered by at least a 3G mobile
+  network.  Percentage of the U.S. population covered by at least a 2G mobile network.  '
 indicator_name: global_indicators.9-c-1-title
 indicator_number: 9.c.1
 national_geographical_coverage: ''

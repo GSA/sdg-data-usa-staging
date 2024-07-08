@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Mortality rate due to cardiovascular disease, malignant neoplasms, diabetes
-  and chronic lower respiratory disease
+graph_title: US crude mortality rate due to cardiovascular disease, malignant neoplasms,
+  diabetes and chronic lower respiratory disease
 graph_titles: []
 graph_type: line
+indicator_available: Mortality rate due to cardiovascular disease, malignant neoplasms,
+  diabetes and chronic lower respiratory disease
 indicator_name: global_indicators.3-4-1-title
 indicator_number: 3.4.1
 national_geographical_coverage: ''

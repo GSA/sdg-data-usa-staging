@@ -20,6 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Tuberculosis incidence per 100,000 US population
 graph_titles: []
 graph_type: line
+indicator_available: Tuberculosis incidence per 100,000 US population
 indicator_name: global_indicators.3-3-2-title
 indicator_number: 3.3.2
 national_geographical_coverage: ''

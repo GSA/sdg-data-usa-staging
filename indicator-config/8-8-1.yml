@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Incidence rate of nonfatal cases of injuries and illnesses involving
-  days away from work by sex, Incidence rate of fatal occupational injuries by sex
+graph_title: US Incidence of fatal occupational injuries per 100,000 male fulltime
+  workers
 graph_titles: []
 graph_type: line
+indicator_available: Incidence rate of nonfatal cases of injuries and illnesses involving
+  days away from work by sex, Incidence rate of fatal occupational injuries by sex
 indicator_name: global_indicators.8-8-1-title
 indicator_number: 8.8.1
 national_geographical_coverage: ''

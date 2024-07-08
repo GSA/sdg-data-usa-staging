@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Total Primary Energy Consumption per Real Dollar of GDP (Thousand Btu
-  per Chained (2009) Dollar)
+graph_title: US Total Primary Energy Consumption per Real Dollar of GDP (Thousand
+  Btu per Chained (2012) Dollar)
 graph_titles: []
 graph_type: line
+indicator_available: Total Primary Energy Consumption per Real Dollar of GDP (Thousand
+  Btu per Chained (2009) Dollar)
 indicator_name: global_indicators.7-3-1-title
 indicator_number: 7.3.1
 national_geographical_coverage: ''

@@ -17,10 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percent of US children from birth up to 5 years with height-for-age less
-  than 2 standard deviations of the median of the WHO Child Growth Standards.
+graph_title: Percent of US children ages 0 to 5 experiencing stunting
 graph_titles: []
 graph_type: line
+indicator_available: Percent of US children from birth up to 5 years with height-for-age
+  less than 2 standard deviations of the median of the WHO Child Growth Standards.
 indicator_name: global_indicators.2-2-1-title
 indicator_number: 2.2.1
 national_geographical_coverage: ''

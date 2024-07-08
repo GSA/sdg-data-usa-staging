@@ -21,6 +21,8 @@ graph_title: Does this indicator (LDC or small island developing states receivin
   support) apply to the US?
 graph_titles: []
 graph_type: line
+indicator_available: Does this indicator (LDC or small island developing states receiving
+  support) apply to the US?
 indicator_name: global_indicators.13-b-1-title
 indicator_number: 13.b.1
 national_geographical_coverage: ''

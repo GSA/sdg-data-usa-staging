@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Annual growth rate of business sector output per job
+graph_title: US annual growth rate of business sector output per job
 graph_titles: []
 graph_type: line
+indicator_available: Annual growth rate of business sector output per job
 indicator_name: global_indicators.8-2-1-title
 indicator_number: 8.2.1
 national_geographical_coverage: ''

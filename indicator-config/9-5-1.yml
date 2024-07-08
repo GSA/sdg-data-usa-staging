@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Research and development expenditure as a proportion of GDP
+graph_title: US research and development expenditure as a proportion of GDP
 graph_titles: []
 graph_type: line
+indicator_available: Research and development expenditure as a proportion of GDP
 indicator_name: global_indicators.9-5-1-title
 indicator_number: 9.5.1
 national_geographical_coverage: ''

@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Proportion of individuals using the Internet
+graph_title: Proportion of US individuals using the Internet (age 3 and over)
 graph_titles: []
 graph_type: line
+indicator_available: Proportion of individuals using the Internet
 indicator_name: global_indicators.17-8-1-title
 indicator_number: 17.8.1
 national_geographical_coverage: ''

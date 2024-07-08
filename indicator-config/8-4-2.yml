@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Personal Consumption Expenditure, Goods
+graph_title: US personal consumption expenditure (goods) per capita
 graph_titles: []
 graph_type: line
+indicator_available: Personal Consumption Expenditure, Goods
 indicator_name: global_indicators.8-4-2-title
 indicator_number: 8.4.2
 national_geographical_coverage: ''

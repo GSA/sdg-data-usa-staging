@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Existence of national statistical legislation that complies with the
-  Fundamental Principles of Official Statistics
+graph_title: Does the US have national statistical legislation compliant with the
+  Fundamental Principles of Official Statistics?
 graph_titles: []
 graph_type: line
+indicator_available: Existence of national statistical legislation that complies with
+  the Fundamental Principles of Official Statistics
 indicator_name: global_indicators.17-18-2-title
 indicator_number: 17.18.2
 national_geographical_coverage: ''

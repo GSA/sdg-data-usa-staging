@@ -264,11 +264,54 @@ prose:
 #           translation_key: metadata_fields.OTHER_DOC
 #           scope: global
       ######### National Metadata #########
-      - name: actual_indicator_available
+      - name: SDG_INDICATOR
         field:
             element: text
-            label: Actual indicator available
-            scope: "national"
+            label: Indicator
+            translation_key: metadata_fields.SDG_INDICATOR
+            scope: national
+      - name: CONTACT_ORGANISATION
+        field:
+            element: text
+            label: Organization
+            translation_key: metadata_fields.CONTACT_ORGANISATION
+            scope: national
+      - name: STAT_CONC_DEF
+        field:
+            element: text
+            label: Definition and concepts
+            translation_key: metadata_fields.STAT_CONC_DEF
+            scope: national
+      - name: UNIT_MEASURE
+        field:
+            element: text
+            label: Unit of measure
+            translation_key: metadata_fields.UNIT_MEASURE
+            scope: national
+      - name: SOURCE_TYPE
+        field:
+            element: text
+            label: Data sources
+            translation_key: metadata_fields.SOURCE_TYPE
+            scope: national
+      - name: DATA_SOURCE
+        field:
+            element: text
+            label: Data providers
+            translation_key: metadata_fields.DATA_SOURCE
+            scope: national
+      - name: REC_USE_LIM
+        field:
+            element: text
+            label: Comment and limitations
+            translation_key: metadata_fields.REC_USE_LIM
+            scope: national
+      - name: DATA_COMP
+        field:
+            element: text
+            label: Method of computation
+            translation_key: metadata_fields.DATA_COMP
+            scope: national
       - name: actual_indicator_available_description
         field:
             element: textarea
@@ -279,11 +322,6 @@ prose:
             element: text
             label: Date of national source publication
             scope: "national"
-      - name: method_of_computation
-        field:
-            element: text
-            label: Method of computation
-            scope: "national"
       - name: periodicity
         field:
             element: text
@@ -293,11 +331,6 @@ prose:
         field:
             element: text
             label: Scheduled update by national source
-            scope: "national"
-      - name: us_method_of_computation
-        field:
-            element: text
-            label: U.S. method of computation
             scope: "national"
       - name: variable_description
         field:
@@ -319,11 +352,6 @@ prose:
             element: hidden
             label: Indicator variable 3
             scope: "data"
-      - name: comments_and_limitations
-        field:
-            element: textarea
-            label: Comments and limitations
-            scope: "national"
       - name: date_metadata_updated
         field:
             element: text
@@ -333,11 +361,6 @@ prose:
         field:
             element: text
             label: Disaggregation geography
-            scope: "national"
-      - name: computation_units
-        field:
-            element: text
-            label: Unit of measure
             scope: "national"
       - name: disaggregation_categories
         field:

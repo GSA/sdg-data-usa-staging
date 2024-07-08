@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Annual growth rate of per capita GDP in chained 2009 dollars
+graph_title: US annual growth rate of per capita GDP in chained (2012) US dollars
 graph_titles: []
 graph_type: line
+indicator_available: Annual growth rate of per capita GDP in chained 2009 dollars
 indicator_name: global_indicators.8-1-1-title
 indicator_number: 8.1.1
 national_geographical_coverage: ''

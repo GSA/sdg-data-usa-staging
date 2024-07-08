@@ -17,9 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Number of health workers per 1000 population and by metropolitan status '
+graph_title: US health care workers per 1000 population
 graph_titles: []
 graph_type: line
+indicator_available: 'Number of health workers per 1000 population and by metropolitan
+  status '
 indicator_name: global_indicators.3-c-1-title
 indicator_number: 3.c.1
 national_geographical_coverage: ''

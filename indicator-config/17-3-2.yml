@@ -17,9 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Personal transfers as a percentage of GDP
+graph_title: Personal transfers from US resident immigrants to foreign residents as
+  a percentage of GDP
 graph_titles: []
 graph_type: line
+indicator_available: Personal transfers as a percentage of GDP
 indicator_name: global_indicators.17-3-2-title
 indicator_number: 17.3.2
 national_geographical_coverage: ''

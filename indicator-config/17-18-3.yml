@@ -17,9 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Existence of Funded and Implemented National Statistical Program '
+graph_title: Does the US have a funded and implemented national statistics program?
+  Source of funding?
 graph_titles: []
 graph_type: line
+indicator_available: 'Existence of Funded and Implemented National Statistical Program '
 indicator_name: global_indicators.17-18-3-title
 indicator_number: 17.18.3
 national_geographical_coverage: ''

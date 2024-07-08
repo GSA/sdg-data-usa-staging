@@ -17,11 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: The number of acute hepatitis B cases that are reported from U.S. states
-  and territories to the National Centers for Disease Control and Prevention per 100,000
-  population in a given year by sex, age group, and race or ethnicity.
+graph_title: Reported acute hepatitis B cases per 100,000 US population
 graph_titles: []
 graph_type: line
+indicator_available: The number of acute hepatitis B cases that are reported from
+  U.S. states and territories to the National Centers for Disease Control and Prevention
+  per 100,000 population in a given year by sex, age group, and race or ethnicity.
 indicator_name: global_indicators.3-3-4-title
 indicator_number: 3.3.4
 national_geographical_coverage: ''

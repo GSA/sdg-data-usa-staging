@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Irrigation by Estimated Quantity of Water Applied to farm land
+graph_title: Estimated acres of US farm land irrigated
 graph_titles: []
 graph_type: line
+indicator_available: Irrigation by Estimated Quantity of Water Applied to farm land
 indicator_name: global_indicators.6-5-1-title
 indicator_number: 6.5.1
 national_geographical_coverage: ''

@@ -17,10 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: "\tNumber of Human Trafficking Offenses Reported to the FBI UCR Program.\
-  \  \t\t\t\t\t\t\t\t\t"
+graph_title: Number of US reported human trafficking offenses
 graph_titles: []
 graph_type: line
+indicator_available: "\tNumber of Human Trafficking Offenses Reported to the FBI UCR\
+  \ Program.  \t\t\t\t\t\t\t\t\t"
 indicator_name: global_indicators.16-2-2-title
 indicator_number: 16.2.2
 national_geographical_coverage: ''

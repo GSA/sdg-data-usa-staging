@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Proportion of population living below the US poverty line. '
+graph_title: Percent of US population living below the US poverty line
 graph_titles: []
 graph_type: line
+indicator_available: 'Proportion of population living below the US poverty line. '
 indicator_name: global_indicators.1-2-1-title
 indicator_number: 1.2.1
 national_geographical_coverage: ''

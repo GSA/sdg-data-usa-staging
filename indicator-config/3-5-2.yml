@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percent of persons 12 years of age and older reporting current binge
-  alcohol consumption; Percent of persons 12 years of age and older reporting current
-  heavy alcohol consumption.
+graph_title: Percent of US persons 12 years of age and older reporting current heavy
+  alcohol consumption
 graph_titles: []
 graph_type: line
+indicator_available: Percent of persons 12 years of age and older reporting current
+  binge alcohol consumption; Percent of persons 12 years of age and older reporting
+  current heavy alcohol consumption.
 indicator_name: global_indicators.3-5-2-title
 indicator_number: 3.5.2
 national_geographical_coverage: ''

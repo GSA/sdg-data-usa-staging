@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: "Estimated number of victims of intentional homicide per 100,000 population,\
-  \ Estimated number of victims of intentional homicide by sex and age\t\t\t"
+graph_title: Estimated number of US victims of intentional homicide per 100,000 population
 graph_titles: []
 graph_type: line
+indicator_available: "Estimated number of victims of intentional homicide per 100,000\
+  \ population, Estimated number of victims of intentional homicide by sex and age\t\
+  \t\t"
 indicator_name: global_indicators.16-1-1-title
 indicator_number: 16.1.1
 national_geographical_coverage: ''

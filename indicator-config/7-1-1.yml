@@ -21,6 +21,8 @@ graph_title: Proportion of occupied housing units in metropolitan areas with acc
   to electricity
 graph_titles: []
 graph_type: line
+indicator_available: Proportion of occupied housing units in metropolitan areas with
+  access to electricity
 indicator_name: global_indicators.7-1-1-title
 indicator_number: 7.1.1
 national_geographical_coverage: ''

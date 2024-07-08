@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentage of 16- to 65-year-olds performing at PIAAC Problem Solving
-  in Technology-Rich Environments performance level 2 or higher, by sex, age group,
-  and high/low income quartile
+graph_title: Percentage of US persons ages 16 to 65 performing at level 2 or higher
+  of the PIAAC Problem Solving in Technology-Rich Environments
 graph_titles: []
 graph_type: line
+indicator_available: Percentage of 16- to 65-year-olds performing at PIAAC Problem
+  Solving in Technology-Rich Environments performance level 2 or higher, by sex, age
+  group, and high/low income quartile
 indicator_name: global_indicators.4-4-1-title
 indicator_number: 4.4.1
 national_geographical_coverage: ''

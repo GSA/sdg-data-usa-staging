@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Number of commercial banking establishments
+graph_title: Number of US commercial banking establishments
 graph_titles: []
 graph_type: line
+indicator_available: Number of commercial banking establishments
 indicator_name: global_indicators.8-10-1-title
 indicator_number: 8.10.1
 national_geographical_coverage: ''

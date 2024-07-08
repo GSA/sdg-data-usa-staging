@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Manufacturing employment as a proportion of total employment
+graph_title: Percent of US manufacturing in total employment
 graph_titles: []
 graph_type: line
+indicator_available: Manufacturing employment as a proportion of total employment
 indicator_name: global_indicators.9-2-2-title
 indicator_number: 9.2.2
 national_geographical_coverage: ''

@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percent of violent victimizations reported to the police.
+graph_title: Percent of US violent victimizations reported to the police
 graph_titles: []
 graph_type: line
+indicator_available: Percent of violent victimizations reported to the police.
 indicator_name: global_indicators.16-3-1-title
 indicator_number: 16.3.1
 national_geographical_coverage: ''

@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Travel and Tourism Satellite Account
+graph_title: Growth Rate of Direct Tourism GDP as a Proportion of Total GDP
 graph_titles: []
 graph_type: line
+indicator_available: Travel and Tourism Satellite Account
 indicator_name: global_indicators.8-9-1-title
 indicator_number: 8.9.1
 national_geographical_coverage: ''

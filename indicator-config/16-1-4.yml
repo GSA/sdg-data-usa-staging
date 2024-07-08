@@ -21,6 +21,8 @@ graph_title: Percent of persons ages 18 and older who report feeling safe walkin
   near their home
 graph_titles: []
 graph_type: line
+indicator_available: Percent of persons ages 18 and older who report feeling safe
+  walking near their home
 indicator_name: global_indicators.16-1-4-title
 indicator_number: 16.1.4
 national_geographical_coverage: ''

@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Proportion of births attended by skilled health personnel
+graph_title: Percentage of US births attended by by skilled health personnel
 graph_titles: []
 graph_type: line
+indicator_available: Proportion of births attended by skilled health personnel
 indicator_name: global_indicators.3-1-2-title
 indicator_number: 3.1.2
 national_geographical_coverage: ''

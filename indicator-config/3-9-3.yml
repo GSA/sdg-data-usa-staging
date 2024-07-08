@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Crude and age-adjusted rates of death due to unintentional poisoning
+graph_title: US crude rate of death due to unintentional poisoning
 graph_titles: []
 graph_type: line
+indicator_available: Crude and age-adjusted rates of death due to unintentional poisoning
 indicator_name: global_indicators.3-9-3-title
 indicator_number: 3.9.3
 national_geographical_coverage: ''

@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Number of new HIV diagnoses of HIV infection per 100,000 population by
-  year of diagnosis, sex, ages 13-54 years and race_ethnicity, 2008-2015
+graph_title: Number of new HIV diagnoses of HIV infection per 100,000 US population
+  by year of diagnosis
 graph_titles: []
 graph_type: line
+indicator_available: Number of new HIV diagnoses of HIV infection per 100,000 population
+  by year of diagnosis, sex, ages 13-54 years and race_ethnicity, 2008-2015
 indicator_name: global_indicators.3-3-1-title
 indicator_number: 3.3.1
 national_geographical_coverage: ''

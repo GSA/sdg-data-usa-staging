@@ -17,10 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Percentage of 5 years olds enrolled in organized learning (prekindergarten,
-  kindergarten, or first or higher grade
+graph_title: Percentage of 5 years olds enrolled in prekindergarten, kindergarten,
+  or first or higher grade in the US
 graph_titles: []
 graph_type: line
+indicator_available: Percentage of 5 years olds enrolled in organized learning (prekindergarten,
+  kindergarten, or first or higher grade
 indicator_name: global_indicators.4-2-2-title
 indicator_number: 4.2.2
 national_geographical_coverage: ''

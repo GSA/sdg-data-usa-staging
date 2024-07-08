@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: USAID assistance for education development assistance
+graph_title: USAID assistance for education development assistance in US dollars
 graph_titles: []
 graph_type: line
+indicator_available: USAID assistance for education development assistance
 indicator_name: global_indicators.4-b-1-title
 indicator_number: 4.b.1
 national_geographical_coverage: ''

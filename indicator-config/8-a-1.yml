@@ -17,9 +17,12 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Total ODA commitments and disbursements in support of Aid for Trade '
+graph_title: 'Total ODA disbursements in support of Aid for Trade in millions of US
+  dollars '
 graph_titles: []
 graph_type: line
+indicator_available: 'Total ODA commitments and disbursements in support of Aid for
+  Trade '
 indicator_name: global_indicators.8-a-1-title
 indicator_number: 8.a.1
 national_geographical_coverage: ''

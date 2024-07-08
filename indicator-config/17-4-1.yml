@@ -21,6 +21,8 @@ graph_title: Net U.S. acquisition of debt securities (outflow) as a percentage o
   exports (goods and services)
 graph_titles: []
 graph_type: line
+indicator_available: Net U.S. acquisition of debt securities (outflow) as a percentage
+  of exports (goods and services)
 indicator_name: global_indicators.17-4-1-title
 indicator_number: 17.4.1
 national_geographical_coverage: ''

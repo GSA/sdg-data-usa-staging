@@ -17,10 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Passenger Data: Passenger-kilometers by mode in millions; Freight Data
-  - Metric tonnage of freight shipments by mode in millions.  '
+graph_title: US passenger and freight data by mode in millions
 graph_titles: []
 graph_type: line
+indicator_available: 'Passenger Data: Passenger-kilometers by mode in millions; Freight
+  Data - Metric tonnage of freight shipments by mode in millions.  '
 indicator_name: global_indicators.9-1-2-title
 indicator_number: 9.1.2
 national_geographical_coverage: ''

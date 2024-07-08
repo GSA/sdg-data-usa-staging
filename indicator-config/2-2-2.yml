@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: 'Percent of children under 5 years with weight-for-height/length <2 standard
-  deviations below (wasting) or >2 standard deviations above (overweight) the median
-  weight-for-length/height '
+graph_title: Percent of children ages 0 to 5 years with wasting (very low weight-for-length/height)
+  in the US
 graph_titles: []
 graph_type: line
+indicator_available: 'Percent of children under 5 years with weight-for-height/length
+  <2 standard deviations below (wasting) or >2 standard deviations above (overweight)
+  the median weight-for-length/height '
 indicator_name: global_indicators.2-2-2-title
 indicator_number: 2.2.2
 national_geographical_coverage: ''

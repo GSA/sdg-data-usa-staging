@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Growth rate of income per capita for the total population.
+graph_title: US growth rate of income per capita for the total population
 graph_titles: []
 graph_type: line
+indicator_available: Growth rate of income per capita for the total population.
 indicator_name: global_indicators.10-1-1-title
 indicator_number: 10.1.1
 national_geographical_coverage: ''

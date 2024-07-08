@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: US suicide mortality rate
+graph_title: US crude suicide mortality rate
 graph_titles: []
 graph_type: line
+indicator_available: US suicide mortality rate
 indicator_name: global_indicators.3-4-2-title
 indicator_number: 3.4.2
 national_geographical_coverage: ''

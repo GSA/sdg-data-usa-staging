@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Government current receipts as a percentage of GDP, by source
+graph_title: US Government current receipts as a percentage of GDP
 graph_titles: []
 graph_type: line
+indicator_available: Government current receipts as a percentage of GDP, by source
 indicator_name: global_indicators.17-1-1-title
 indicator_number: 17.1.1
 national_geographical_coverage: ''

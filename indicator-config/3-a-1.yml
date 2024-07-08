@@ -17,9 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Daily smoking prevalence among the US population aged 18 years and older
+graph_title: Percentage of US population aged 18 and over who are daily smokers
 graph_titles: []
 graph_type: line
+indicator_available: Daily smoking prevalence among the US population aged 18 years
+  and older
 indicator_name: global_indicators.3-a-1-title
 indicator_number: 3.a.1
 national_geographical_coverage: ''

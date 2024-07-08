@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Neonatal mortality rate
+graph_title: Number of deaths (infants aged 0 to 27 days old) per 1,000 US live births
 graph_titles: []
 graph_type: line
+indicator_available: Neonatal mortality rate
 indicator_name: global_indicators.3-2-2-title
 indicator_number: 3.2.2
 national_geographical_coverage: ''

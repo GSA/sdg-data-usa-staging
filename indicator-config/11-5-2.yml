@@ -17,10 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: Direct economic loss attributed to disasters in relation to global gross
-  domestic product (GDP)
+graph_title: Disaster losses as a percentage of GDP
 graph_titles: []
 graph_type: line
+indicator_available: Direct economic loss attributed to disasters in relation to global
+  gross domestic product (GDP)
 indicator_name: global_indicators.11-5-2-title
 indicator_number: 11.5.2
 national_geographical_coverage: ''
