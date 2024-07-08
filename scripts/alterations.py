@@ -20,9 +20,4 @@ def alter_meta(meta, context):
         if key in meta:
             meta[key] = remove_global_numbers(meta[key])
 
-    # If "actual_indicator_available" is populated, use it for
-    # the indicator config settings: indicator_available and graph_title.
-    if 'actual_indicator_available' in meta and meta['actual_indicator_available'] != '':
-        meta['indicator_available'] = meta['actual_indicator_available']
-        meta['graph_title'] = meta['actual_indicator_available']
     return meta
