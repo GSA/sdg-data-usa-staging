@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,13 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.9-1-2-title
+graph_title: US passenger and freight data by mode in millions
 graph_titles: []
 graph_type: line
+indicator_available: 'Passenger Data: Passenger-kilometers by mode in millions; Freight
+  Data - Metric tonnage of freight shipments by mode in millions.  '
 indicator_name: global_indicators.9-1-2-title
-indicator_number: '9.1.2'
+indicator_number: 9.1.2
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''

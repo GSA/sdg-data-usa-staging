@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,14 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.4-6-1-title
+graph_title: Percentage of US persons ages 16 to 65 performing at level 3 or higher
+  of the PIAAC literacy or numeracy measure, by sex, age, and income
 graph_titles: []
 graph_type: line
+indicator_available: Percentage of 16- to 65-year-olds performing at PIAAC literacy
+  or numeracy level 3 or higher, by sex, age group, and high/low income quartile
 indicator_name: global_indicators.4-6-1-title
-indicator_number: '4.6.1'
+indicator_number: 4.6.1
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''

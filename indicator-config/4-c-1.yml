@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,14 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.4-c-1-title
+graph_title: Percent of US public school pre-primary teachers with certification
 graph_titles: []
 graph_type: line
+indicator_available: 'Percentage of public elementary and secondary school teachers
+  who have regular certification or probationary certification (only requiring fulfillment
+  of a probationary employment period. '
 indicator_name: global_indicators.4-c-1-title
-indicator_number: '4.c.1'
+indicator_number: 4.c.1
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''

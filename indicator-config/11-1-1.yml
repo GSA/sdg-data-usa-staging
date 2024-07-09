@@ -1,4 +1,4 @@
-﻿composite_breakdown_label: ''
+composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -17,11 +17,14 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.11-1-1-title
+graph_title: Percentage of occupied housing units in US urban areas that are severely
+  inadequate
 graph_titles: []
 graph_type: line
+indicator_available: Percentage of occupied housing units in urban areas  that are
+  inadequate
 indicator_name: global_indicators.11-1-1-title
-indicator_number: '11.1.1'
+indicator_number: 11.1.1
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
