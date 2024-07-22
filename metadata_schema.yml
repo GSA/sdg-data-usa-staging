@@ -28,6 +28,48 @@ prose:
             label: Target (global)
             translation_key: metadata_fields.SDG_TARGET
             scope: global
+      - name: CONTACT_ORGANISATION__GLOBAL
+        field:
+            element: text
+            label: Organization (global)
+            translation_key: metadata_fields.CONTACT_ORGANISATION
+            scope: global
+      - name: STAT_CONC_DEF__GLOBAL
+        field:
+            element: text
+            label: Definition and concepts (global)
+            translation_key: metadata_fields.STAT_CONC_DEF
+            scope: global
+      - name: UNIT_MEASURE__GLOBAL
+        field:
+            element: text
+            label: Unit of measure (global)
+            translation_key: metadata_fields.UNIT_MEASURE
+            scope: global
+      - name: SOURCE_TYPE__GLOBAL
+        field:
+            element: text
+            label: Data sources (global)
+            translation_key: metadata_fields.SOURCE_TYPE
+            scope: global
+      - name: DATA_SOURCE__GLOBAL
+        field:
+            element: text
+            label: Data providers (global)
+            translation_key: metadata_fields.DATA_SOURCE
+            scope: global
+      - name: REC_USE_LIM__GLOBAL
+        field:
+            element: text
+            label: Comment and limitations (global)
+            translation_key: metadata_fields.REC_USE_LIM
+            scope: global
+      - name: DATA_COMP__GLOBAL
+        field:
+            element: text
+            label: Method of computation (global)
+            translation_key: metadata_fields.DATA_COMP
+            scope: global
 #      - name: SDG_SERIES_DESCR__GLOBAL
 #        field:
 #            element: text
