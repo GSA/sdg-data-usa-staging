@@ -1,0 +1,45 @@
+actual_indicator_available: Annual mean levels of PM2.5 in cities weighted by population
+actual_indicator_available_description: ''
+date_of_national_source_publication: '2024-07-31'
+method_of_computation: ''
+periodicity: annual
+scheduled_update_by_national_source: ''
+us_method_of_computation: >-
+  Steps for computing the indicator: 1. Retrieved monitor-level PM2.5 annual
+  mean values from EPA's Air Quality System. (These annual means are the average
+  of the four calendar quarter averages. At least 11 24-hour observations in
+  each calendar quarter are required for the annual mean to be valid.  Otherwise
+  it is invalid and not used.) 2. The highest annual mean among all monitors in
+  each city, as defined by the U.S. Office of Management and Budget's 2013
+  definition of Core Based Statistical Areas (CBSA) was computed to represent
+  each CBSA. 3. For each CBSA, multiplied the CBSA's maximum annual mean by the
+  CBSA's 2010 population. 4. Summed this population-weighted annual mean across
+  all CBSAs with data. 5. Divided this sum by the sum of all CBSAs with data. 6.
+  Resulting value is an average population-weighted concentration.
+comments_and_limitations: >-
+  Note that a constant population (2010) was used.  Note that the number of
+  cities that have data varies from year to year.
+date_metadata_updated: '2024-07-09'
+disaggregation_geography: ''
+computation_units: micrograms per cubic meter
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: >-
+  2000 to most recent complete year of data.  Ambient monitoring data for PM2.5
+  for a given calendar year is typically not available until May/June of the
+  following year.
+scheduled_update_by_SDG_team: '2018-09-30'
+source_organisation_1: United States Environmental Protection Agency
+source_agency_staff_name_1: David Mintz
+source_agency_survey_dataset_1: United States Environmental Protection Agency
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'https://www.epa.gov/air-trends/air-quality-cities-and-counties'
+source_url_text_1: 'https://www.epa.gov/air-trends/air-quality-cities-and-counties'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''
