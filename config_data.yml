@@ -56,6 +56,10 @@ inputs:
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
   - class: InputYamlMeta
+    path_pattern: meta/*-*.yml
+    git: true
+    git_data_dir: data
+  - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
     git: false
   - class: InputSdmxMeta
