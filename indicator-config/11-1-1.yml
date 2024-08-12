@@ -14,22 +14,37 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
+footer_fields: []
 graph_annotations: []
 graph_limits: []
+graph_series_breaks: []
 graph_stacked_disaggregation: ''
-graph_title: Percentage of occupied housing units in US urban areas that are severely
-  inadequate
+graph_target_lines: []
+graph_title: Percent of occupied housing units in US urban areas that are inadequate
 graph_titles: []
 graph_type: line
-indicator_available: Percentage of occupied housing units in urban areas  that are
-  inadequate
+indicator_available: Percent of occupied housing units in US urban areas that are inadequate
 indicator_name: global_indicators.11-1-1-title
 indicator_number: 11.1.1
+indicator_tabs:
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
+placeholder: ''
 precision: []
+progress_status: not_available
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
 reporting_status: complete
 sort: ''
+sources: []
 standalone: false
 tags: []
+x_axis_label: ''
