@@ -1,2 +1,6 @@
-Year,Value
-2015,0
+﻿Year,Value,Units,
+2015,n/a,,
+2016,328,lbs/person,*baseline year
+2017,n/a,,
+2018,335,lbs/person,
+2019,349,lbs/person,
