@@ -1,4 +1,4 @@
-Year,Sex,Income,Value
+﻿Year,Sex,Income,Value
 2000,,,93.997
 2001,,,93.097
 2002,,,93.563
@@ -6,24 +6,24 @@ Year,Sex,Income,Value
 2004,,,93.088
 2005,,,93.409
 2006,,,92.603
-2007,,,92.390
-2008,,,90.980
+2007,,,92.39
+2008,,,90.98
 2009,,,91.533
 2010,,,92.377
 2011,,,92.576
 2012,,,89.798
-2013,,,90.260
+2013,,,90.26
 2014,,,90.714
 2015,,,90.955
 2016,,,90.122
-2017,,,90.040
+2017,,,90.04
 2000,Male,,93.231
 2001,Male,,92.969
 2002,Male,,94.292
-2003,Male,,92.890
+2003,Male,,92.89
 2004,Male,,93.392
 2005,Male,,92.875
-2006,Male,,92.570
+2006,Male,,92.57
 2007,Male,,91.097
 2008,Male,,91.168
 2009,Male,,90.435
@@ -39,7 +39,7 @@ Year,Sex,Income,Value
 2001,Female,,93.228
 2002,Female,,92.797
 2003,Female,,90.936
-2004,Female,,92.760
+2004,Female,,92.76
 2005,Female,,93.984
 2006,Female,,92.637
 2007,Female,,93.731
@@ -47,7 +47,7 @@ Year,Sex,Income,Value
 2009,Female,,92.687
 2010,Female,,92.949
 2011,Female,,92.533
-2012,Female,,90.210
+2012,Female,,90.21
 2013,Female,,89.862
 2014,Female,,89.852
 2015,Female,,91.961
@@ -71,7 +71,7 @@ Year,Sex,Income,Value
 2015,,Low quintile,88.737
 2016,,Low quintile,88.475
 2017,,Low quintile,90.707
-2000,,Middle low quintile,89.940
+2000,,Middle low quintile,89.94
 2001,,Middle low quintile,90.502
 2002,,Middle low quintile,93.547
 2003,,Middle low quintile,87.978
@@ -83,9 +83,9 @@ Year,Sex,Income,Value
 2009,,Middle low quintile,89.559
 2010,,Middle low quintile,91.404
 2011,,Middle low quintile,90.569
-2012,,Middle low quintile,90.220
+2012,,Middle low quintile,90.22
 2013,,Middle low quintile,89.202
-2014,,Middle low quintile,87.880
+2014,,Middle low quintile,87.88
 2015,,Middle low quintile,92.879
 2016,,Middle low quintile,89.198
 2017,,Middle low quintile,83.721
@@ -112,12 +112,12 @@ Year,Sex,Income,Value
 2002,,Middle high quintile,91.203
 2003,,Middle high quintile,91.548
 2004,,Middle high quintile,94.072
-2005,,Middle high quintile,95.270
+2005,,Middle high quintile,95.27
 2006,,Middle high quintile,91.891
 2007,,Middle high quintile,92.919
 2008,,Middle high quintile,92.437
 2009,,Middle high quintile,91.871
-2010,,Middle high quintile,94.620
+2010,,Middle high quintile,94.62
 2011,,Middle high quintile,91.141
 2012,,Middle high quintile,88.854
 2013,,Middle high quintile,88.574
@@ -128,7 +128,7 @@ Year,Sex,Income,Value
 2000,,High quintile,97.852
 2001,,High quintile,95.025
 2002,,High quintile,96.236
-2003,,High quintile,95.400
+2003,,High quintile,95.4
 2004,,High quintile,95.297
 2005,,High quintile,96.623
 2006,,High quintile,97.242
@@ -143,3 +143,43 @@ Year,Sex,Income,Value
 2015,,High quintile,92.512
 2016,,High quintile,93.493
 2017,,High quintile,93.005
+2018,,,89.82933125
+2019,,,90.72562355
+2020,,,84.34962451
+2021,,,86.34658845
+2022,,,89.01283044
+2018,Male,,89.65908892
+2019,Male,,91.85117671
+2020,Male,,85.04588952
+2021,Male,,85.56602927
+2022,Male,,89.70048244
+2018,Female,,90.00462603
+2019,Female,,89.49818055
+2020,Female,,83.61025704
+2021,Female,,87.13640843
+2022,Female,,88.30066611
+2018,,Low quintile,89.62190316
+2019,,Low quintile,86.45373165
+2020,,Low quintile,80.03149077
+2021,,Low quintile,82.15859262
+2022,,Low quintile,86.28269158
+2018,,Middle low quintile,87.69867606
+2019,,Middle low quintile,87.55324332
+2020,,Middle low quintile,84.40146622
+2021,,Middle low quintile,85.11113296
+2022,,Middle low quintile,88.01431096
+2018,,Middle quintile,90.50458844
+2019,,Middle quintile,88.8505812
+2020,,Middle quintile,78.99368418
+2021,,Middle quintile,86.6810751
+2022,,Middle quintile,85.98781976
+2018,,Middle high quintile,89.95022633
+2019,,Middle high quintile,91.85281386
+2020,,Middle high quintile,84.87859712
+2021,,Middle high quintile,84.85935837
+2022,,Middle high quintile,91.63707978
+2018,,High quintile,91.07332614
+2019,,High quintile,95.97070655
+2020,,High quintile,90.98504284
+2021,,High quintile,90.54999473
+2022,,High quintile,91.14174508
