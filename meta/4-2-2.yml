@@ -2,8 +2,8 @@
   Percentage of 5 years olds enrolled in organized learning (prekindergarten,
   kindergarten, or first or higher grade)
 CONTACT_ORGANISATION: >-
-U.S. Department of Education, National Center for Education Statistics,
- tabulation of Census Bureau Current Population Survey (October school enrollment supplement)
+  U.S. Department of Education, National Center for Education Statistics,
+  tabulation of Census Bureau Current Population Survey (October school enrollment supplement)
 STAT_CONC_DEF: 'Enrollment of 5 year olds in primary or preprimary school in October as reported by head of household. '
 UNIT_MEASURE: Percentage
 SOURCE_TYPE: >-
