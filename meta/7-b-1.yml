@@ -2,17 +2,17 @@
 CONTACT_ORGANISATION: 'Energy Information Administration'
 STAT_CONC_DEF: ''
 UNIT_MEASURE: 'watts per capita'
-SOURCE_TYPE: '>-
+SOURCE_TYPE: >-
   Energy Information Administration -
-  http://www.eia.gov/totalenergy/data/monthly/'
+  http://www.eia.gov/totalenergy/data/monthly/
 DATA_SOURCE: ''
 REC_USE_LIM: ''
-DATA_COMP: '>-
+DATA_COMP: >-
   Total Renewable Energy Net Summer Capacity (in thousand kilowatts) divided by
-  Total Residential Population, United States, expressed as watts per capita'
-actual_indicator_available_description: '>-
+  Total Residential Population, United States, expressed as watts per capita
+actual_indicator_available_description: >-
   Calculated from Tables 7.7a and C1 of the Energy Information Administration's 
-  Monthly Energy Review'
+  Monthly Energy Review
 date_of_national_source_publication: 'June 2024'
 periodicity: 'Annual'
 scheduled_update_by_national_source: 'October 2024'
