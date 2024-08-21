@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Incidence rate of fatal occupational injuries",
+                "Incidence rate of nonfatal cases of injuries and illnesses involving days away from work",
+                "Annualized incidence rate of nonfatal cases of injuries and illnesses involving days away from work",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

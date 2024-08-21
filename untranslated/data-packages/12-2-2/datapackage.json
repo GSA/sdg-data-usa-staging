@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Current Dollars",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

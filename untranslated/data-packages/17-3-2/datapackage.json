@@ -15,6 +15,16 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

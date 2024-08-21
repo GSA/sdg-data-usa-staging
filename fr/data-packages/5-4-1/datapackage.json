@@ -16,6 +16,50 @@
             "title": "Année"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Household activities (includes travel)",
+                "Caring for and helping household members (includes travel)",
+                "Caring for and helping nonhousehold members (includes travel)",
+                "Purchasing goods and services (includes travel)",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 years and over",
+                "15 to 24 years",
+                "25 to 34 years",
+                "25 to 54 years",
+                "35 to 44 years",
+                "45 to 54 years",
+                "55 to 64 years",
+                "65 years and over",
+                ""
+              ]
+            },
+            "title": "Age Group"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

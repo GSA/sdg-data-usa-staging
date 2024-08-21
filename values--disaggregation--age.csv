@@ -1,14 +1,18 @@
 Value,Disaggregation combinations using this value,Number of indicators
+10-14,1,1
 13_24_y,1,1
+15-19,1,1
 18_to_64_years,1,1
 20_29_yrs,1,1
 25 to 34,2,1
 25_34_y,1,1
+30_39_yrs,1,1
 35 to 44,2,1
 35_44_y,1,1
-40_59_yrs,1,1
+40_49_yrs,1,1
 45 to 54,2,1
 45_54_y,1,1
+50_59_yrs,1,1
 55 to 64,2,1
 65_and_over,1,1
 gt_59_yrs,1,1

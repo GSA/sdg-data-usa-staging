@@ -16,6 +16,18 @@
             "title": "Année"
           },
           {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disbursements",
+                "Commitments",
+                ""
+              ]
+            },
+            "title": "Measure"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

@@ -22,6 +22,7 @@
               "enum": [
                 "md_inadqt_hs",
                 "sv_inadqt_hs",
+                "all_inadqt_hs",
                 ""
               ]
             },

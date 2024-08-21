@@ -15,6 +15,58 @@
             "type": "integer"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 +",
+                "16 - 64",
+                "16 -19",
+                "20 +",
+                "20 - 24",
+                "25 +",
+                "25 - 34",
+                "35 - 44",
+                "45 - 54",
+                "55 - 64",
+                "65 +",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persons with a disability",
+                "Persons with no disability",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

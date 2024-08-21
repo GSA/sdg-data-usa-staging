@@ -16,6 +16,18 @@
             "title": "Année"
           },
           {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-19",
+                "10-14",
+                ""
+              ]
+            },
+            "title": "age"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

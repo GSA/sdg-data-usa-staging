@@ -15,6 +15,28 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct_GDP",
+                "per_capita",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
+                "Chained 2017 dollars",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

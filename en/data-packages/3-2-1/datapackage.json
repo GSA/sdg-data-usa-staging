@@ -16,6 +16,26 @@
             "title": "Year"
           },
           {
+            "name": "Unnamed: 2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 2"
+          },
+          {
+            "name": "Unnamed: 3",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 3"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

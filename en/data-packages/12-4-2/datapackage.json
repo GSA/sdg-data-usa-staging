@@ -16,8 +16,43 @@
             "title": "Year"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Treatment Method",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DEEPWELL / UNDERGROUND INJECTION",
+                "ENERGY RECOVERY",
+                "FUEL BLENDING",
+                "INCINERATION",
+                "LAND TREATMENT / APPLICATION",
+                "LANDFILL",
+                "METALS RECOVERY",
+                "OTHER RECOVERY",
+                "OTHER TREATMENT",
+                "SLUDGE TRTMNT / STAB / ENCAP",
+                "SOLVENTS RECOVERY",
+                "SURF. IMP. CLOSED AS LANDFILL",
+                "WASTEWATER TREATMENT",
+                ""
+              ]
+            },
+            "title": "Treatment Method"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

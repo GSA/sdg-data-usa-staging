@@ -15,6 +15,27 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct_change",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
+                "Percent",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

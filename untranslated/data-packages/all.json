@@ -61,15 +61,26 @@
             "type": "integer"
           },
           {
-            "name": "source",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "crnt_rcpts",
                 "crnt_tx_rcpts",
                 "ctrbtns_govt_soc_ins",
                 "inc_rcpts_asts",
                 "crnt_trnsfr_rcpts",
                 "crnt_srpls_govt_entrprs",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
                 ""
               ]
             }
@@ -98,7 +109,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       },
@@ -609,6 +620,16 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Current Dollars",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -651,6 +672,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -697,8 +728,41 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Percent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Treatment Method",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DEEPWELL / UNDERGROUND INJECTION",
+                "ENERGY RECOVERY",
+                "FUEL BLENDING",
+                "INCINERATION",
+                "LAND TREATMENT / APPLICATION",
+                "LANDFILL",
+                "METALS RECOVERY",
+                "OTHER RECOVERY",
+                "OTHER TREATMENT",
+                "SLUDGE TRTMNT / STAB / ENCAP",
+                "SOLVENTS RECOVERY",
+                "SURF. IMP. CLOSED AS LANDFILL",
+                "WASTEWATER TREATMENT",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -1417,7 +1481,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -1482,6 +1546,58 @@
             "type": "integer"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 +",
+                "16 - 64",
+                "16 -19",
+                "20 +",
+                "20 - 24",
+                "25 +",
+                "25 - 34",
+                "35 - 44",
+                "45 - 54",
+                "55 - 64",
+                "65 +",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Disability Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persons with a disability",
+                "Persons with no disability",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -1524,6 +1640,17 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disbursements",
+                "Commitments",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1661,6 +1788,49 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15–19",
+                "20–24",
+                "25–29",
+                "30–34",
+                "35–39",
+                "40–44",
+                "45–49",
+                "50–54",
+                "55–59",
+                "60–64",
+                "65–69",
+                "70–74",
+                "75 or older",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -1705,8 +1875,29 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lakes",
+                "Rivers",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -1725,6 +1916,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1747,6 +1948,24 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Unnamed: 2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unnamed: 3",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -1882,7 +2101,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -2334,7 +2553,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Incidence rate of fatal occupational injuries",
+                "Incidence rate of nonfatal cases of injuries and illnesses involving days away from work",
+                "Annualized incidence rate of nonfatal cases of injuries and illnesses involving days away from work",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2360,7 +2602,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -2489,6 +2731,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -2678,8 +2930,18 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "lbs/person",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -2937,7 +3199,9 @@
               "enum": [
                 "lt_20_yrs",
                 "20_29_yrs",
-                "40_59_yrs",
+                "30_39_yrs",
+                "40_49_yrs",
+                "50_59_yrs",
                 "gt_59_yrs",
                 ""
               ]
@@ -3125,6 +3389,16 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -3255,6 +3529,47 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Household activities (includes travel)",
+                "Caring for and helping household members (includes travel)",
+                "Caring for and helping nonhousehold members (includes travel)",
+                "Purchasing goods and services (includes travel)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 years and over",
+                "15 to 24 years",
+                "25 to 34 years",
+                "25 to 54 years",
+                "35 to 44 years",
+                "45 to 54 years",
+                "55 to 64 years",
+                "65 years and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3477,6 +3792,36 @@
             "type": "integer"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 +",
+                "16 -19",
+                "20 +",
+                "20 - 24",
+                "25 +",
+                "25 - 34",
+                "35 - 44",
+                "45 - 54",
+                "55 - 64",
+                "65 +",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "integer"
           }
@@ -3522,7 +3867,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -3654,7 +3999,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -3673,6 +4018,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -3741,6 +4096,28 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rate",
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -3805,6 +4182,28 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct_GDP",
+                "per_capita",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
+                "Chained 2017 dollars",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4093,6 +4492,16 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -4203,6 +4612,16 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -4311,6 +4730,17 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-19",
+                "10-14",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4443,6 +4873,27 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "pct_change",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
+                "Percent",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -4824,7 +5275,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
@@ -4988,6 +5439,16 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -5142,6 +5603,16 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Current Dollars",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -5206,6 +5677,16 @@
           {
             "name": "Year",
             "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -5505,6 +5986,16 @@
             "type": "integer"
           },
           {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }
@@ -5577,6 +6068,7 @@
               "enum": [
                 "md_inadqt_hs",
                 "sv_inadqt_hs",
+                "all_inadqt_hs",
                 ""
               ]
             }

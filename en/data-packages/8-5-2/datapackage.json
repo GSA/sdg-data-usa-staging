@@ -16,6 +16,62 @@
             "title": "Year"
           },
           {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Men",
+                "Women",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16 +",
+                "16 - 64",
+                "16 -19",
+                "20 +",
+                "20 - 24",
+                "25 +",
+                "25 - 34",
+                "35 - 44",
+                "45 - 54",
+                "55 - 64",
+                "65 +",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Disability Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Persons with a disability",
+                "Persons with no disability",
+                ""
+              ]
+            },
+            "title": "Disability Status"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

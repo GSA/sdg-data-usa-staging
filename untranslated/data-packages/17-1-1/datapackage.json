@@ -15,15 +15,26 @@
             "type": "integer"
           },
           {
-            "name": "source",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "crnt_rcpts",
                 "crnt_tx_rcpts",
                 "ctrbtns_govt_soc_ins",
                 "inc_rcpts_asts",
                 "crnt_trnsfr_rcpts",
                 "crnt_srpls_govt_entrprs",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
                 ""
               ]
             }

@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Disbursements",
+                "Commitments",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

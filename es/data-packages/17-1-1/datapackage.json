@@ -16,10 +16,11 @@
             "title": "Año"
           },
           {
-            "name": "source",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
+                "crnt_rcpts",
                 "crnt_tx_rcpts",
                 "ctrbtns_govt_soc_ins",
                 "inc_rcpts_asts",
@@ -28,7 +29,18 @@
                 ""
               ]
             },
-            "title": "source"
+            "title": "Series"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",
