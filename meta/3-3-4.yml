@@ -2,7 +2,7 @@
   The number of acute hepatitis B cases that are reported from U.S. states and
   territories to the National Centers for Disease Control and Prevention per
   100,000 population in a given year by sex, age group, and race or ethnicity.
-CONTACT_ORGANISATION: 'Surveillance of Viral Hepatitis – United States
+CONTACT_ORGANISATION: 'Surveillance of Viral Hepatitis – United States'
 STAT_CONC_DEF: ''
 UNIT_MEASURE: 'cases per 100,000 population'
 SOURCE_TYPE: 'Surveillance of Viral Hepatitis – United States. Accessed via https://www.cdc.gov/hepatitis/statistics/2022surveillance/hepatitis-b.htm'
