@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Percentage of persons in US ages 16 to 65 enrolling in formal educational
   programs during the past year
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_available: Percentage of 16- to 65-year-olds enrolling in formal or nonformal
   programs during the past year, by sex, age group, and high/low income quartile
 indicator_name: global_indicators.4-3-1-title

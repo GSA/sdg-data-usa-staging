@@ -43,6 +43,8 @@ inputs:
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
+    column_map: column_map.csv
+    code_map: code_map.csv
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.md
@@ -141,3 +143,7 @@ docs_metadata_fields:
       label: Units
     - key: graph_type
       label: Graph type
+
+docs_extra_disaggregations:
+  - Series
+  - Units
