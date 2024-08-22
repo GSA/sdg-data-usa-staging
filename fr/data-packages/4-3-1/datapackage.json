@@ -16,7 +16,7 @@
             "title": "Année"
           },
           {
-            "name": "education",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,47 +25,47 @@
                 ""
               ]
             },
-            "title": "education"
+            "title": "EDUCATION_LEV"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "SEX"
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "less than 25",
-                "25 to 34",
-                "35 to 44",
-                "45 to 54",
-                "55 to 64",
+                "Y0T24",
+                "Y25T34",
+                "Y35T44",
+                "Y45T54",
+                "Y55T64",
                 ""
               ]
             },
-            "title": "age"
+            "title": "AGE"
           },
           {
-            "name": "income",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "low quartile",
-                "mid quartile",
-                "high quartile",
+                "Q1",
+                "Q3",
+                "Q5",
                 ""
               ]
             },
-            "title": "income"
+            "title": "INCOME_WEALTH_QUANTILE"
           },
           {
             "name": "Value",

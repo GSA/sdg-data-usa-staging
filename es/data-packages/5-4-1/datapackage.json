@@ -30,34 +30,34 @@
             "title": "Series"
           },
           {
-            "name": "Age Group",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 years and over",
-                "15 to 24 years",
-                "25 to 34 years",
-                "25 to 54 years",
-                "35 to 44 years",
-                "45 to 54 years",
-                "55 to 64 years",
-                "65 years and over",
+                "Y_GE15",
+                "Y15T24",
+                "Y25T34",
+                "Y25T54",
+                "Y35T44",
+                "Y45T54",
+                "Y55T64",
+                "Y_GE65",
                 ""
               ]
             },
-            "title": "Age Group"
+            "title": "AGE"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "Value",

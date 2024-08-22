@@ -16,42 +16,42 @@
             "title": "Año"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_7_1_male",
-                "i4_7_1_female",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "SEX"
           },
           {
-            "name": "disability_status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_7_1_disabilities",
-                "i4_7_1_nodisabilities",
+                "PD",
+                "PWD",
                 ""
               ]
             },
-            "title": "disability_status"
+            "title": "DISABILITY_STATUS"
           },
           {
-            "name": "urbanicity",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_7_1_urban",
-                "i4_7_1_suburban",
-                "i4_7_1_town",
-                "i4_7_1_rural",
+                "U",
+                "TSUB",
+                "CITY",
+                "R",
                 ""
               ]
             },
-            "title": "urbanicity"
+            "title": "URBANISATION"
           },
           {
             "name": "Value",

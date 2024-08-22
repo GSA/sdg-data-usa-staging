@@ -20,15 +20,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "reading",
-                "math",
+                "SKILL_READ",
+                "SKILL_MATH",
                 ""
               ]
             },
             "title": "subject"
           },
           {
-            "name": "grade",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
@@ -37,19 +37,19 @@
                 ""
               ]
             },
-            "title": "grade"
+            "title": "EDUCATION_LEV"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "SEX"
           },
           {
             "name": "Value",

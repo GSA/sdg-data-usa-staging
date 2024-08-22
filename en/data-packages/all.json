@@ -405,7 +405,7 @@
             "title": "Year"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -417,15 +417,15 @@
             "title": "Sex"
           },
           {
-            "name": "Income",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Low quintile",
-                "Middle low quintile",
-                "Middle quintile",
-                "Middle high quintile",
-                "High quintile",
+                "1st quintile (lowest)",
+                "2nd quintile",
+                "3rd quintile",
+                "4th quintile",
+                "5th quintile (highest)",
                 ""
               ]
             },
@@ -456,16 +456,16 @@
             "title": "Year"
           },
           {
-            "name": "education",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_b_1_basic",
-                "i4_b_1_higher",
+                "Basic",
+                "Higher",
                 ""
               ]
             },
-            "title": "education"
+            "title": "Education level"
           },
           {
             "name": "Value",
@@ -492,43 +492,43 @@
             "title": "Year"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_4_1_tech_male",
-                "i4_4_1_tech_female",
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_4_1_tech_24",
-                "i4_4_1_tech_34",
-                "i4_4_1_tech_44",
-                "i4_4_1_tech54",
-                "i4_4_1_tech_65",
+                "24 and under",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 65",
                 ""
               ]
             },
-            "title": "age"
+            "title": "Age"
           },
           {
-            "name": "income",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_4_1_tech_lowinc",
-                "i4_4_1_tech_highinc",
+                "1st quintile (lowest)",
+                "5th quintile (highest)",
                 ""
               ]
             },
-            "title": "income"
+            "title": "Income"
           },
           {
             "name": "Value",
@@ -1068,7 +1068,7 @@
             "title": "Year"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1077,34 +1077,34 @@
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "13_24_y",
-                "25_34_y",
-                "35_44_y",
-                "45_54_y",
+                "13 to 24",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
                 ""
               ]
             },
-            "title": "age"
+            "title": "Age"
           },
           {
             "name": "race_ethnicity",
             "type": "string",
             "constraints": {
               "enum": [
-                "black_nh",
-                "white_nh",
-                "hispanic",
+                "Black (non-Hispanic)",
+                "White (non-Hispanic)",
+                "Hispanic",
                 ""
               ]
             },
-            "title": "race_ethnicity"
+            "title": "Race/Ethnicity"
           },
           {
             "name": "Value",
@@ -1491,29 +1491,29 @@
             "title": "Year"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "under_18_years",
-                "18_to_64_years",
-                "65_and_over",
+                "17 and under",
+                "18 to 64",
+                "65 and over",
                 ""
               ]
             },
-            "title": "age"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -1684,49 +1684,49 @@
             "title": "Year"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Male",
+                "Female",
                 ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 +",
-                "16 - 64",
-                "16 -19",
-                "20 +",
-                "20 - 24",
-                "25 +",
-                "25 - 34",
-                "35 - 44",
-                "45 - 54",
-                "55 - 64",
-                "65 +",
+                "16 and over",
+                "16 to 64",
+                "16 to 19",
+                "20 and over",
+                "20 to 24",
+                "25 and over",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 and over",
                 ""
               ]
             },
             "title": "Age"
           },
           {
-            "name": "Disability Status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Persons with a disability",
-                "Persons with no disability",
+                "Disabled",
+                "Not disabled",
                 ""
               ]
             },
-            "title": "Disability Status"
+            "title": "Disability status"
           },
           {
             "name": "Units",
@@ -1872,31 +1872,31 @@
             "title": "Year"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
-            "name": "income",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "low",
-                "middle low",
-                "middle",
-                "middle high",
-                "high",
+                "1st quintile (lowest)",
+                "2nd quintile",
+                "3rd quintile",
+                "4th quintile",
+                "5th quintile (highest)",
                 ""
               ]
             },
-            "title": "income"
+            "title": "Income"
           },
           {
             "name": "Value",
@@ -1958,7 +1958,7 @@
             "title": "Units"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1970,22 +1970,22 @@
             "title": "Sex"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15–19",
-                "20–24",
-                "25–29",
-                "30–34",
-                "35–39",
-                "40–44",
-                "45–49",
-                "50–54",
-                "55–59",
-                "60–64",
-                "65–69",
-                "70–74",
+                "15 to 19",
+                "20 to 24",
+                "25 to 29",
+                "30 to 34",
+                "35 to 39",
+                "40 to 44",
+                "45 to 49",
+                "50 to 54",
+                "55 to 59",
+                "60 to 64",
+                "65 to 69",
+                "70 to 74",
                 "75 or older",
                 ""
               ]
@@ -2167,16 +2167,16 @@
             "title": "Year"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "males",
-                "females",
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -2275,16 +2275,16 @@
             "title": "Year"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "Value",
@@ -2687,29 +2687,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "highway",
-                "air",
-                "transit",
-                "rail",
+                "Highway",
+                "Air",
+                "Transit",
+                "Rail",
                 ""
               ]
             },
-            "title": "passenger-mode"
+            "title": "Passenger mode"
           },
           {
             "name": "freight-mode",
             "type": "string",
             "constraints": {
               "enum": [
-                "truck",
-                "pipeline",
-                "rail",
-                "vessel",
-                "air",
+                "Truck",
+                "Pipeline",
+                "Rail",
+                "Vessel",
+                "Air",
                 ""
               ]
             },
-            "title": "freight-mode"
+            "title": "Freight mode"
           },
           {
             "name": "Value",
@@ -2797,7 +2797,7 @@
             "title": "Series"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -3467,47 +3467,47 @@
             "title": "Year"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "lt_20_yrs",
-                "20_29_yrs",
-                "30_39_yrs",
-                "40_49_yrs",
-                "50_59_yrs",
-                "gt_59_yrs",
+                "19 and under",
+                "20 to 29",
+                "30 to 39",
+                "40 to 49",
+                "50 to 59",
+                "60 and over",
                 ""
               ]
             },
-            "title": "age"
+            "title": "Age"
           },
           {
             "name": "race_ethnicity",
             "type": "string",
             "constraints": {
               "enum": [
-                "white_nh",
-                "black_nh",
-                "asian_pi_nh",
-                "aian_nh",
-                "hispanic",
+                "White (non-Hispanic)",
+                "Black (non-Hispanic)",
+                "Asian/Pacific Islander (non-Hispanic)",
+                "American Indian/Alaska Native (non-Hispanic)",
+                "Hispanic",
                 ""
               ]
             },
-            "title": "race_ethnicity"
+            "title": "Race/Ethnicity"
           },
           {
             "name": "Value",
@@ -3558,42 +3558,42 @@
             "title": "Year"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_7_1_male",
-                "i4_7_1_female",
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
-            "name": "disability_status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_7_1_disabilities",
-                "i4_7_1_nodisabilities",
+                "Disabled",
+                "Not disabled",
                 ""
               ]
             },
-            "title": "disability_status"
+            "title": "Disability status"
           },
           {
-            "name": "urbanicity",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_7_1_urban",
-                "i4_7_1_suburban",
-                "i4_7_1_town",
-                "i4_7_1_rural",
+                "U",
+                "TSUB",
+                "CITY",
+                "R",
                 ""
               ]
             },
-            "title": "urbanicity"
+            "title": "URBANISATION"
           },
           {
             "name": "Value",
@@ -3861,30 +3861,30 @@
             "title": "Series"
           },
           {
-            "name": "Age Group",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 years and over",
-                "15 to 24 years",
-                "25 to 34 years",
-                "25 to 54 years",
-                "35 to 44 years",
-                "45 to 54 years",
-                "55 to 64 years",
-                "65 years and over",
+                "15 and over",
+                "15 to 24",
+                "25 to 34",
+                "25 to 54",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 and over",
                 ""
               ]
             },
-            "title": "Age Group"
+            "title": "Age"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Male",
+                "Female",
                 ""
               ]
             },
@@ -4131,32 +4131,32 @@
             "title": "Year"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "Male",
+                "Female",
                 ""
               ]
             },
             "title": "Sex"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 +",
-                "16 -19",
-                "20 +",
-                "20 - 24",
-                "25 +",
-                "25 - 34",
-                "35 - 44",
-                "45 - 54",
-                "55 - 64",
-                "65 +",
+                "16 and over",
+                "16 to 19",
+                "20 and over",
+                "20 to 24",
+                "25 and over",
+                "25 to 34",
+                "35 to 44",
+                "45 to 54",
+                "55 to 64",
+                "65 and over",
                 ""
               ]
             },
@@ -4474,7 +4474,7 @@
             "title": "Units"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -5156,16 +5156,16 @@
             "title": "Year"
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-19",
-                "10-14",
+                "15 to 19",
+                "10 to 14",
                 ""
               ]
             },
-            "title": "age"
+            "title": "Age"
           },
           {
             "name": "Value",
@@ -5647,35 +5647,35 @@
             "title": "Year"
           },
           {
-            "name": "education",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "formal",
-                "informal",
+                "Formal",
+                "Informal",
                 ""
               ]
             },
-            "title": "education"
+            "title": "Education level"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "less than 25",
+                "24 and under",
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
@@ -5683,20 +5683,20 @@
                 ""
               ]
             },
-            "title": "age"
+            "title": "Age"
           },
           {
-            "name": "income",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "low quartile",
-                "mid quartile",
-                "high quartile",
+                "1st quintile (lowest)",
+                "3rd quintile",
+                "5th quintile (highest)",
                 ""
               ]
             },
-            "title": "income"
+            "title": "Income"
           },
           {
             "name": "Value",
@@ -6348,36 +6348,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "reading",
-                "math",
+                "Reading",
+                "Math",
                 ""
               ]
             },
-            "title": "subject"
+            "title": "Subject"
           },
           {
-            "name": "grade",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "4th",
-                "8th",
+                "4th grade",
+                "8th grade",
                 ""
               ]
             },
-            "title": "grade"
+            "title": "Education level"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "Value",

@@ -15,26 +15,26 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Income",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Low quintile",
-                "Middle low quintile",
-                "Middle quintile",
-                "Middle high quintile",
-                "High quintile",
+                "Q1",
+                "Q2",
+                "Q3",
+                "Q4",
+                "Q5",
                 ""
               ]
             }

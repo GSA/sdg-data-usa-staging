@@ -16,16 +16,16 @@
             "title": "Année"
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15-19",
-                "10-14",
+                "Y15T19",
+                "Y10T14",
                 ""
               ]
             },
-            "title": "age"
+            "title": "AGE"
           },
           {
             "name": "Value",

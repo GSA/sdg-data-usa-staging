@@ -1,1 +1,1 @@
-{"From":["education","education","education"],"To":["sex","age","income"]}
+{"From":["EDUCATION_LEV","EDUCATION_LEV","EDUCATION_LEV"],"To":["SEX","AGE","INCOME_WEALTH_QUANTILE"]}

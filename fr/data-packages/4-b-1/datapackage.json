@@ -16,16 +16,16 @@
             "title": "Année"
           },
           {
-            "name": "education",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_b_1_basic",
-                "i4_b_1_higher",
+                "basic",
+                "higher",
                 ""
               ]
             },
-            "title": "education"
+            "title": "EDUCATION_LEV"
           },
           {
             "name": "Value",

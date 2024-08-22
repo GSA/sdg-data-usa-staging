@@ -1,4 +1,4 @@
 From,To
-education,sex
-education,age
-education,income
+Education level,Sex
+Education level,Age
+Education level,Income

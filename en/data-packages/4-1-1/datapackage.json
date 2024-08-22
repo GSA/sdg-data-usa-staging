@@ -20,36 +20,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "reading",
-                "math",
+                "Reading",
+                "Math",
                 ""
               ]
             },
-            "title": "subject"
+            "title": "Subject"
           },
           {
-            "name": "grade",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "4th",
-                "8th",
+                "4th grade",
+                "8th grade",
                 ""
               ]
             },
-            "title": "grade"
+            "title": "Education level"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
             "name": "Value",

@@ -16,49 +16,49 @@
             "title": "Año"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Men",
-                "Women",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 +",
-                "16 - 64",
-                "16 -19",
-                "20 +",
-                "20 - 24",
-                "25 +",
-                "25 - 34",
-                "35 - 44",
-                "45 - 54",
-                "55 - 64",
-                "65 +",
+                "Y_GE16",
+                "Y16T64",
+                "Y16T19",
+                "Y_GE20",
+                "Y20T24",
+                "Y_GE25",
+                "Y25T34",
+                "Y35T44",
+                "Y45T54",
+                "Y55T64",
+                "Y_GE65",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "AGE"
           },
           {
-            "name": "Disability Status",
+            "name": "DISABILITY_STATUS",
             "type": "string",
             "constraints": {
               "enum": [
-                "Persons with a disability",
-                "Persons with no disability",
+                "PD",
+                "PWD",
                 ""
               ]
             },
-            "title": "Disability Status"
+            "title": "DISABILITY_STATUS"
           },
           {
             "name": "Units",

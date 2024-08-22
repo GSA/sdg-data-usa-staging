@@ -16,35 +16,35 @@
             "title": "Year"
           },
           {
-            "name": "education",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "formal",
-                "informal",
+                "Formal",
+                "Informal",
                 ""
               ]
             },
-            "title": "education"
+            "title": "Education level"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "male",
-                "female",
+                "Male",
+                "Female",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "Sex"
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "less than 25",
+                "24 and under",
                 "25 to 34",
                 "35 to 44",
                 "45 to 54",
@@ -52,20 +52,20 @@
                 ""
               ]
             },
-            "title": "age"
+            "title": "Age"
           },
           {
-            "name": "income",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "low quartile",
-                "mid quartile",
-                "high quartile",
+                "1st quintile (lowest)",
+                "3rd quintile",
+                "5th quintile (highest)",
                 ""
               ]
             },
-            "title": "income"
+            "title": "Income"
           },
           {
             "name": "Value",

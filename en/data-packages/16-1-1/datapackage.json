@@ -28,7 +28,7 @@
             "title": "Units"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [

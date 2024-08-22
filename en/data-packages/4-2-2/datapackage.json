@@ -16,7 +16,7 @@
             "title": "Year"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -28,15 +28,15 @@
             "title": "Sex"
           },
           {
-            "name": "Income",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "Low quintile",
-                "Middle low quintile",
-                "Middle quintile",
-                "Middle high quintile",
-                "High quintile",
+                "1st quintile (lowest)",
+                "2nd quintile",
+                "3rd quintile",
+                "4th quintile",
+                "5th quintile (highest)",
                 ""
               ]
             },

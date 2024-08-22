@@ -26,12 +26,12 @@
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }

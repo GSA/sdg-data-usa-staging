@@ -29,16 +29,16 @@
             "title": "Series"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "SEX"
           },
           {
             "name": "Value",

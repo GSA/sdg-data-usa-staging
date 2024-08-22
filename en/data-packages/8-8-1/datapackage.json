@@ -29,7 +29,7 @@
             "title": "Series"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [

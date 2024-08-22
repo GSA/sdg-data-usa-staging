@@ -32,29 +32,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "highway",
-                "air",
-                "transit",
-                "rail",
+                "Highway",
+                "Air",
+                "Transit",
+                "Rail",
                 ""
               ]
             },
-            "title": "passenger-mode"
+            "title": "Passenger mode"
           },
           {
             "name": "freight-mode",
             "type": "string",
             "constraints": {
               "enum": [
-                "truck",
-                "pipeline",
-                "rail",
-                "vessel",
-                "air",
+                "Truck",
+                "Pipeline",
+                "Rail",
+                "Vessel",
+                "Air",
                 ""
               ]
             },
-            "title": "freight-mode"
+            "title": "Freight mode"
           },
           {
             "name": "Value",

@@ -16,7 +16,7 @@
             "title": "Año"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,21 +25,21 @@
                 ""
               ]
             },
-            "title": "sex"
+            "title": "SEX"
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "13_24_y",
-                "25_34_y",
-                "35_44_y",
-                "45_54_y",
+                "Y13T24",
+                "Y25T34",
+                "Y35T44",
+                "Y45T54",
                 ""
               ]
             },
-            "title": "age"
+            "title": "AGE"
           },
           {
             "name": "race_ethnicity",

@@ -50,10 +50,10 @@ UNFPA",,,,,line
 #12-1-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #12-2-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #12-2-2,complete,United Nations Environment Programme (UNEP),,,,,line
-#12-3-1,notstarted,United Nations Environment Programme (UNEP) ,,,,,line
+#12-3-1,complete,United Nations Environment Programme (UNEP) ,,,,,line
 #12-4-1,complete,United Nations Environment Programme (UNEP),,,,,line
-#12-4-2,notstarted,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,line
-#12-5-1,notstarted,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,line
+#12-4-2,complete,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,bar
+#12-5-1,complete,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,line
 #12-6-1,notstarted,"United Nations Conference on Trade and Development (UNCTAD)
 United Nations Environment Programme (UNEP)",,,,,line
 #12-7-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
@@ -107,7 +107,7 @@ UN Environment Programme",,,,,line
 #15-c-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-1-1,complete,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",,,,,line
 #16-1-2,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
-#16-1-3,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
+#16-1-3,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-1-4,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-10-1,notstarted,"Office of the United Nations High Commissioner for Human Rights (OHCHR) United Nations Educational, Scientific and Cultural Organization (UNESCO) International Labour Organization (ILO)",,,,,line
 #16-10-2,notstarted,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",,,,,line
@@ -215,14 +215,14 @@ United Nations Population Fund (UNFPA)",,,,,line
 #3-d-2,notstarted,World Health Organization (WHO) ,,,,,line
 #4-1-1,complete,UNESCO Institute of Statistics (UIS),,,,,line
 #4-1-2,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
-#4-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,,line
+#4-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,,bar
 #4-2-2,complete,UNESCO Institute for Statistics (UIS),,,,,line
-#4-3-1,complete,UNESCO Institute for Statistics (UIS),,,,,line
-#4-4-1,complete,International Telecommunication Union (ITU),,,,,line
+#4-3-1,complete,UNESCO Institute for Statistics (UIS),,,,,bar
+#4-4-1,complete,International Telecommunication Union (ITU),,,,,bar
 #4-5-1,complete,UNESCO Institute for Statistics (UIS),,,,,line
-#4-6-1,complete,UNESCO Institute for Statistics (UIS),,,,,line
+#4-6-1,complete,UNESCO Institute for Statistics (UIS),,,,,bar
 #4-7-1,complete,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
-UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
+UNESCO Institute for Statistics (UNESCO-UIS)",,,,,bar
 #4-a-1,complete,UNESCO Institute for Statistics (UIS),,,,,line
 #4-b-1,complete,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #4-c-1,complete,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
@@ -233,7 +233,7 @@ United Nations Entity for Gender Equality and the Empowerment of Women (UN Women
 United Nations Office on Drugs and Crime (UNODC)
 United Nations Population Fund (UNFPA)
 United Nations Statistics Division (UNSD)",,,,,line
-#5-2-2,notstarted,"United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
+#5-2-2,complete,"United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)
 United Nations Children&apos;s Fund (UNICEF)
 United Nations Statistics Division (UNSD)
 World Health Organization (WHO)
@@ -256,7 +256,7 @@ United Nations Children&apos;s Fund (UNICEF)",,,,,line
 #6-3-1,notstarted,"United Nations Human Settlements Programme (UN-Habitat)
 World Health Organization (WHO)
 United Nations Statistics Division (UNSD)",,,,,line
-#6-3-2,notstarted,United Nations Environment Programme (UNEP),,,,,line
+#6-3-2,complete,United Nations Environment Programme (UNEP),,,,,line
 #6-4-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #6-4-2,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #6-5-1,complete,United Nations Environment Programme (UNEP),,,,,line
@@ -277,7 +277,7 @@ International Renewable Energy Agency (IRENA)",,,,,line
 #7-3-1,complete,"International Energy Agency (IEA) 
 United Nations Statistics Division (UNSD)",,,,,line
 #7-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD) and International Renewable Energy Agency (IRENA),,,,,line
-#7-b-1,notstarted,International Renewable Energy Agency (IRENA),,,,,line
+#7-b-1,complete,International Renewable Energy Agency (IRENA),,,,,line
 #8-1-1,complete,United Nations Statistics Division (UNSD),,,,,line
 #8-10-1,complete,International Monetary Fund (STAFI - Financial Access Survey Team) ,,,,,line
 #8-10-2,complete,World Bank ,,,,,line
@@ -307,7 +307,7 @@ World Bank",,,,,line
 #9-4-1,complete,"International Energy Agency (IEA)
 United Nations Industrial Development Organization (UNIDO)",,,,,line
 #9-5-1,complete,UNESCO Institute for Statistics (UIS),,,,,line
-#9-5-2,notstarted,UNESCO Institute for Statistics (UIS) ,,,,,line
+#9-5-2,complete,UNESCO Institute for Statistics (UIS) ,,,,,line
 #9-a-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #9-b-1,notstarted,United Nations Industrial Development Organization (UNIDO),,,,,line
 #9-c-1,complete,International Telecommunication Union (ITU),,,,,line

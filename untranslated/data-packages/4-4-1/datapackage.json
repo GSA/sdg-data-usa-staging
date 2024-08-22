@@ -15,37 +15,37 @@
             "type": "integer"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_4_1_tech_male",
-                "i4_4_1_tech_female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_4_1_tech_24",
-                "i4_4_1_tech_34",
-                "i4_4_1_tech_44",
-                "i4_4_1_tech54",
-                "i4_4_1_tech_65",
+                "Y0T24",
+                "Y25T34",
+                "Y35T44",
+                "Y45T54",
+                "Y55T65",
                 ""
               ]
             }
           },
           {
-            "name": "income",
+            "name": "INCOME_WEALTH_QUANTILE",
             "type": "string",
             "constraints": {
               "enum": [
-                "i4_4_1_tech_lowinc",
-                "i4_4_1_tech_highinc",
+                "Q1",
+                "Q5",
                 ""
               ]
             }

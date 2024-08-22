@@ -16,32 +16,32 @@
             "title": "Año"
           },
           {
-            "name": "sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "female",
-                "male",
+                "F",
+                "M",
                 ""
               ]
             },
-            "title": "sex"
+            "title": "SEX"
           },
           {
-            "name": "age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "lt_20_yrs",
-                "20_29_yrs",
-                "30_39_yrs",
-                "40_49_yrs",
-                "50_59_yrs",
-                "gt_59_yrs",
+                "Y0T19",
+                "Y20T29",
+                "Y30T39",
+                "Y40T49",
+                "Y50T59",
+                "Y_GE60",
                 ""
               ]
             },
-            "title": "age"
+            "title": "AGE"
           },
           {
             "name": "race_ethnicity",

@@ -1,4 +1,4 @@
 From,To
-education,sex
-education,age
-education,income
+EDUCATION_LEV,SEX
+EDUCATION_LEV,AGE
+EDUCATION_LEV,INCOME_WEALTH_QUANTILE

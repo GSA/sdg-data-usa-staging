@@ -53,96 +53,96 @@ Year,Sex,Income,Value
 2015,Female,,91.961
 2016,Female,,90.588
 2017,Female,,91.799
-2000,,Low quintile,91.313
-2001,,Low quintile,91.155
-2002,,Low quintile,94.597
-2003,,Low quintile,89.153
-2004,,Low quintile,88.331
-2005,,Low quintile,92.303
-2006,,Low quintile,90.213
-2007,,Low quintile,86.476
-2008,,Low quintile,88.067
-2009,,Low quintile,89.575
-2010,,Low quintile,89.393
-2011,,Low quintile,91.571
-2012,,Low quintile,84.552
-2013,,Low quintile,91.234
-2014,,Low quintile,91.377
-2015,,Low quintile,88.737
-2016,,Low quintile,88.475
-2017,,Low quintile,90.707
-2000,,Middle low quintile,89.94
-2001,,Middle low quintile,90.502
-2002,,Middle low quintile,93.547
-2003,,Middle low quintile,87.978
-2004,,Middle low quintile,93.869
-2005,,Middle low quintile,87.948
-2006,,Middle low quintile,89.283
-2007,,Middle low quintile,91.646
-2008,,Middle low quintile,89.098
-2009,,Middle low quintile,89.559
-2010,,Middle low quintile,91.404
-2011,,Middle low quintile,90.569
-2012,,Middle low quintile,90.22
-2013,,Middle low quintile,89.202
-2014,,Middle low quintile,87.88
-2015,,Middle low quintile,92.879
-2016,,Middle low quintile,89.198
-2017,,Middle low quintile,83.721
-2000,,Middle quintile,93.941
-2001,,Middle quintile,93.171
-2002,,Middle quintile,92.508
-2003,,Middle quintile,93.552
-2004,,Middle quintile,92.771
-2005,,Middle quintile,92.981
-2006,,Middle quintile,92.911
-2007,,Middle quintile,94.729
-2008,,Middle quintile,91.561
-2009,,Middle quintile,91.739
-2010,,Middle quintile,89.684
-2011,,Middle quintile,92.094
-2012,,Middle quintile,90.211
-2013,,Middle quintile,89.121
-2014,,Middle quintile,91.457
-2015,,Middle quintile,91.413
-2016,,Middle quintile,89.217
-2017,,Middle quintile,92.445
-2000,,Middle high quintile,95.549
-2001,,Middle high quintile,94.476
-2002,,Middle high quintile,91.203
-2003,,Middle high quintile,91.548
-2004,,Middle high quintile,94.072
-2005,,Middle high quintile,95.27
-2006,,Middle high quintile,91.891
-2007,,Middle high quintile,92.919
-2008,,Middle high quintile,92.437
-2009,,Middle high quintile,91.871
-2010,,Middle high quintile,94.62
-2011,,Middle high quintile,91.141
-2012,,Middle high quintile,88.854
-2013,,Middle high quintile,88.574
-2014,,Middle high quintile,91.344
-2015,,Middle high quintile,88.191
-2016,,Middle high quintile,89.547
-2017,,Middle high quintile,88.817
-2000,,High quintile,97.852
-2001,,High quintile,95.025
-2002,,High quintile,96.236
-2003,,High quintile,95.4
-2004,,High quintile,95.297
-2005,,High quintile,96.623
-2006,,High quintile,97.242
-2007,,High quintile,95.048
-2008,,High quintile,92.784
-2009,,High quintile,94.306
-2010,,High quintile,95.479
-2011,,High quintile,96.354
-2012,,High quintile,94.151
-2013,,High quintile,92.862
-2014,,High quintile,91.117
-2015,,High quintile,92.512
-2016,,High quintile,93.493
-2017,,High quintile,93.005
+2000,,1st quintile (lowest),91.313
+2001,,1st quintile (lowest),91.155
+2002,,1st quintile (lowest),94.597
+2003,,1st quintile (lowest),89.153
+2004,,1st quintile (lowest),88.331
+2005,,1st quintile (lowest),92.303
+2006,,1st quintile (lowest),90.213
+2007,,1st quintile (lowest),86.476
+2008,,1st quintile (lowest),88.067
+2009,,1st quintile (lowest),89.575
+2010,,1st quintile (lowest),89.393
+2011,,1st quintile (lowest),91.571
+2012,,1st quintile (lowest),84.552
+2013,,1st quintile (lowest),91.234
+2014,,1st quintile (lowest),91.377
+2015,,1st quintile (lowest),88.737
+2016,,1st quintile (lowest),88.475
+2017,,1st quintile (lowest),90.707
+2000,,2nd quintile,89.94
+2001,,2nd quintile,90.502
+2002,,2nd quintile,93.547
+2003,,2nd quintile,87.978
+2004,,2nd quintile,93.869
+2005,,2nd quintile,87.948
+2006,,2nd quintile,89.283
+2007,,2nd quintile,91.646
+2008,,2nd quintile,89.098
+2009,,2nd quintile,89.559
+2010,,2nd quintile,91.404
+2011,,2nd quintile,90.569
+2012,,2nd quintile,90.22
+2013,,2nd quintile,89.202
+2014,,2nd quintile,87.88
+2015,,2nd quintile,92.879
+2016,,2nd quintile,89.198
+2017,,2nd quintile,83.721
+2000,,3rd quintile,93.941
+2001,,3rd quintile,93.171
+2002,,3rd quintile,92.508
+2003,,3rd quintile,93.552
+2004,,3rd quintile,92.771
+2005,,3rd quintile,92.981
+2006,,3rd quintile,92.911
+2007,,3rd quintile,94.729
+2008,,3rd quintile,91.561
+2009,,3rd quintile,91.739
+2010,,3rd quintile,89.684
+2011,,3rd quintile,92.094
+2012,,3rd quintile,90.211
+2013,,3rd quintile,89.121
+2014,,3rd quintile,91.457
+2015,,3rd quintile,91.413
+2016,,3rd quintile,89.217
+2017,,3rd quintile,92.445
+2000,,4th quintile,95.549
+2001,,4th quintile,94.476
+2002,,4th quintile,91.203
+2003,,4th quintile,91.548
+2004,,4th quintile,94.072
+2005,,4th quintile,95.27
+2006,,4th quintile,91.891
+2007,,4th quintile,92.919
+2008,,4th quintile,92.437
+2009,,4th quintile,91.871
+2010,,4th quintile,94.62
+2011,,4th quintile,91.141
+2012,,4th quintile,88.854
+2013,,4th quintile,88.574
+2014,,4th quintile,91.344
+2015,,4th quintile,88.191
+2016,,4th quintile,89.547
+2017,,4th quintile,88.817
+2000,,5th quintile (highest),97.852
+2001,,5th quintile (highest),95.025
+2002,,5th quintile (highest),96.236
+2003,,5th quintile (highest),95.4
+2004,,5th quintile (highest),95.297
+2005,,5th quintile (highest),96.623
+2006,,5th quintile (highest),97.242
+2007,,5th quintile (highest),95.048
+2008,,5th quintile (highest),92.784
+2009,,5th quintile (highest),94.306
+2010,,5th quintile (highest),95.479
+2011,,5th quintile (highest),96.354
+2012,,5th quintile (highest),94.151
+2013,,5th quintile (highest),92.862
+2014,,5th quintile (highest),91.117
+2015,,5th quintile (highest),92.512
+2016,,5th quintile (highest),93.493
+2017,,5th quintile (highest),93.005
 2018,,,89.82933125
 2019,,,90.72562355
 2020,,,84.34962451
@@ -158,28 +158,28 @@ Year,Sex,Income,Value
 2020,Female,,83.61025704
 2021,Female,,87.13640843
 2022,Female,,88.30066611
-2018,,Low quintile,89.62190316
-2019,,Low quintile,86.45373165
-2020,,Low quintile,80.03149077
-2021,,Low quintile,82.15859262
-2022,,Low quintile,86.28269158
-2018,,Middle low quintile,87.69867606
-2019,,Middle low quintile,87.55324332
-2020,,Middle low quintile,84.40146622
-2021,,Middle low quintile,85.11113296
-2022,,Middle low quintile,88.01431096
-2018,,Middle quintile,90.50458844
-2019,,Middle quintile,88.8505812
-2020,,Middle quintile,78.99368418
-2021,,Middle quintile,86.6810751
-2022,,Middle quintile,85.98781976
-2018,,Middle high quintile,89.95022633
-2019,,Middle high quintile,91.85281386
-2020,,Middle high quintile,84.87859712
-2021,,Middle high quintile,84.85935837
-2022,,Middle high quintile,91.63707978
-2018,,High quintile,91.07332614
-2019,,High quintile,95.97070655
-2020,,High quintile,90.98504284
-2021,,High quintile,90.54999473
-2022,,High quintile,91.14174508
+2018,,1st quintile (lowest),89.62190316
+2019,,1st quintile (lowest),86.45373165
+2020,,1st quintile (lowest),80.03149077
+2021,,1st quintile (lowest),82.15859262
+2022,,1st quintile (lowest),86.28269158
+2018,,2nd quintile,87.69867606
+2019,,2nd quintile,87.55324332
+2020,,2nd quintile,84.40146622
+2021,,2nd quintile,85.11113296
+2022,,2nd quintile,88.01431096
+2018,,3rd quintile,90.50458844
+2019,,3rd quintile,88.8505812
+2020,,3rd quintile,78.99368418
+2021,,3rd quintile,86.6810751
+2022,,3rd quintile,85.98781976
+2018,,4th quintile,89.95022633
+2019,,4th quintile,91.85281386
+2020,,4th quintile,84.87859712
+2021,,4th quintile,84.85935837
+2022,,4th quintile,91.63707978
+2018,,5th quintile (highest),91.07332614
+2019,,5th quintile (highest),95.97070655
+2020,,5th quintile (highest),90.98504284
+2021,,5th quintile (highest),90.54999473
+2022,,5th quintile (highest),91.14174508
