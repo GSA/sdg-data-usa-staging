@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Early math skills among US kindergarteners (typically age 5)
 graph_titles: []
-graph_type: line
+graph_type: bar
 indicator_available: Approaches to learning, interpersonal skills, self-control, health
   mathematics, and reading performance of entering kindergarten students in the US
   (typically age 5),
