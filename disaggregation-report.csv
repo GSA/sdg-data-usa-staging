@@ -1,13 +1,14 @@
 Disaggregation,Number of indicators,Number of values
 AGE,10,38
 DISABILITY_STATUS,2,2
-EDUCATION_LEV,3,6
+EDUCATION_LEV,2,4
 exploitation,1,2
 freight-mode,1,5
 INCOME_WEALTH_QUANTILE,4,5
-Measure,1,2
+Measure,2,3
 passenger-mode,1,4
 race_ethnicity,2,5
+Scholarship Sector,1,9
 Series,6,18
 severity,1,3
 SEX,17,4

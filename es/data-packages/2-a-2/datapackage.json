@@ -16,6 +16,18 @@
             "title": "Año"
           },
           {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments, USD Current",
+                "Gross Disbursements, USD Current",
+                ""
+              ]
+            },
+            "title": "Measure"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

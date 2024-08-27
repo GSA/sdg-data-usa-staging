@@ -456,16 +456,34 @@
             "title": "Año"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Scholarship Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "basic",
-                "higher",
+                "Basic life skills for adults",
+                "Media and free flow of information",
+                "Multisector education/training",
+                "Advanced technical and managerial training",
+                "Employment creation",
+                "Primary education",
+                "Health personnel development",
+                "Environmental education/training",
+                "Higher education",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Scholarship Sector"
+          },
+          {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross Disbursements, USD Current",
+                ""
+              ]
+            },
+            "title": "Measure"
           },
           {
             "name": "Value",
@@ -1227,6 +1245,17 @@
             "title": "Año"
           },
           {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross Disbursements, USD Current",
+                ""
+              ]
+            },
+            "title": "Measure"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -1297,6 +1326,18 @@
             "name": "Year",
             "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments, USD Current",
+                "Gross Disbursements, USD Current",
+                ""
+              ]
+            },
+            "title": "Measure"
           },
           {
             "name": "Value",
@@ -4798,6 +4839,17 @@
             "title": "Año"
           },
           {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross Disbursements, USD Current",
+                ""
+              ]
+            },
+            "title": "Measure"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -5903,6 +5955,18 @@
             "title": "Año"
           },
           {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross Commitments, USD Current",
+                "Gross Disbursements, USD Current",
+                ""
+              ]
+            },
+            "title": "Measure"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -6498,6 +6562,19 @@
             "name": "Year",
             "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments, USD Current",
+                "Gross Disbursements, USD Current",
+                "Net Disbursements, USD Current",
+                ""
+              ]
+            },
+            "title": "Measure"
           },
           {
             "name": "Value",

@@ -16,16 +16,34 @@
             "title": "Année"
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Scholarship Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "basic",
-                "higher",
+                "Basic life skills for adults",
+                "Media and free flow of information",
+                "Multisector education/training",
+                "Advanced technical and managerial training",
+                "Employment creation",
+                "Primary education",
+                "Health personnel development",
+                "Environmental education/training",
+                "Higher education",
                 ""
               ]
             },
-            "title": "EDUCATION_LEV"
+            "title": "Scholarship Sector"
+          },
+          {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross Disbursements, USD Current",
+                ""
+              ]
+            },
+            "title": "Measure"
           },
           {
             "name": "Value",
