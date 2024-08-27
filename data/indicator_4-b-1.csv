@@ -1,8 +1,15 @@
-Year,education,Value
-2013,,1151645000
-2014,,974553000
-2015,,905674000
-2014,i4_b_1_basic,727746000
-2015,i4_b_1_basic,675671000
-2014,i4_b_1_higher,246807000
-2015,i4_b_1_higher,230003000
+﻿Year,Scholarship Sector,Measure,Value
+2006,Basic life skills for adults,"Gross Disbursements, USD Current","34,000"
+2006,Media and free flow of information,"Gross Disbursements, USD Current","32,000"
+2006,Multisector education/training,"Gross Disbursements, USD Current","32,777,000"
+2007,Basic life skills for adults,"Gross Disbursements, USD Current","1,212"
+2007,Advanced technical and managerial training,"Gross Disbursements, USD Current","168,000"
+2007,Employment creation,"Gross Disbursements, USD Current","71,581"
+2007,Multisector education/training,"Gross Disbursements, USD Current","156,234,367"
+2008,Basic life skills for adults,"Gross Disbursements, USD Current",293
+2008,Primary education,"Gross Disbursements, USD Current","37,483"
+2008,Health personnel development,"Gross Disbursements, USD Current","631,000"
+2008,Employment creation,"Gross Disbursements, USD Current","48,854"
+2008,Multisector education/training,"Gross Disbursements, USD Current","154,917,282"
+2020,Environmental education/training,"Gross Disbursements, USD Current","22,215"
+2022,Higher education,"Gross Disbursements, USD Current","776,198"
