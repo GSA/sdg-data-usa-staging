@@ -17,10 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: See US data and metadata for indicator 5.2.1.
+graph_title: Rate of sexual victimization per 1,000 specified population
 graph_titles: []
 graph_type: line
-indicator_available: See US data and metadata for indicator 5.2.1.
+indicator_available: Rate of sexual victimizations for females age 12 or older by persons other than an intimate partner per 1,000 population
 indicator_name: global_indicators.5-2-2-title
 indicator_number: 5.2.2
 national_geographical_coverage: ''

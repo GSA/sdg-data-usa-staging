@@ -17,9 +17,10 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.16-1-3-title
+graph_title: 'Proportion of population subjected to violent victimization in the previous 12 months'
 graph_titles: []
 graph_type: line
+indicator_available: 'Proportion of population subjected to violent victimization in the previous 12 months'
 indicator_name: global_indicators.16-1-3-title
 indicator_number: 16.1.3
 national_geographical_coverage: ''
