@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Has the US established any form of climate change mitigation, adaption
   and impact reduction into its primary, secondary, and tertiary educational curricula?
 graph_titles: []
-graph_type: line
+graph_type: binary
 indicator_name: global_indicators.13-3-1-title
 indicator_number: 13.3.1
 national_geographical_coverage: ''

@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Does the USG produce dashboards of macroeconomic indicators (Y/N)?
 graph_titles: []
-graph_type: line
+graph_type: binary
 indicator_name: global_indicators.17-13-1-title
 indicator_number: 17.13.1
 national_geographical_coverage: ''

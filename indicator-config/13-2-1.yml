@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Has the US established a plan to improve the nation's ability to adapt
   to climate change in a manner that does not adversely affect food production?
 graph_titles: []
-graph_type: line
+graph_type: binary
 indicator_name: global_indicators.13-2-1-title
 indicator_number: 13.2.1
 national_geographical_coverage: ''

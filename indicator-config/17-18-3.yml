@@ -20,7 +20,7 @@ graph_stacked_disaggregation: ''
 graph_title: Does the US have a funded and implemented national statistics program?
   Source of funding?
 graph_titles: []
-graph_type: line
+graph_type: binary
 indicator_available: 'Existence of Funded and Implemented National Statistical Program '
 indicator_name: global_indicators.17-18-3-title
 indicator_number: 17.18.3
