@@ -19,7 +19,7 @@ graph_limits: []
 graph_stacked_disaggregation: ''
 graph_title: Has the US established national and local disaster risk reduction strategies?
 graph_titles: []
-graph_type: line
+graph_type: binary
 indicator_name: global_indicators.1-5-4-title
 indicator_number: 1.5.4
 national_geographical_coverage: ''
