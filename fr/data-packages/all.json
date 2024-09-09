@@ -4647,30 +4647,6 @@
       "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
     },
     {
-      "path": "13-3-2/data.csv",
-      "name": "13-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Année"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Nombre de pays ayant fait état du renforcement de leurs capacités institutionnelles, systémiques et individuelles pour favoriser les mesures d’adaptation et d’atténuation, le transfert de technologie et les activités en faveur du développement"
-    },
-    {
       "path": "7-2-1/data.csv",
       "name": "7-2-1",
       "profile": "tabular-data-resource",
@@ -5123,30 +5099,6 @@
         ]
       },
       "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
-    },
-    {
-      "path": "8-9-2/data.csv",
-      "name": "8-9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Année"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion d’emplois dans le secteur du tourisme durable, par rapport au nombre total d’emplois dans l’industrie du tourisme"
     },
     {
       "path": "17-15-1/data.csv",
@@ -6752,30 +6704,6 @@
         ]
       },
       "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
-    },
-    {
-      "path": "17-6-2/data.csv",
-      "name": "17-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Année"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Abonnements à une connexion à Internet à haut débit fixe pour 100 habitants, par vitesse de connexion"
     },
     {
       "path": "5-2-1/data.csv",

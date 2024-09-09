@@ -4647,30 +4647,6 @@
       "title": "Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
     },
     {
-      "path": "13-3-2/data.csv",
-      "name": "13-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de países que han comunicado una mayor creación de capacidad institucional, sistémica e individual para implementar actividades de adaptación, mitigación y transferencia de tecnología, y medidas de desarrollo"
-    },
-    {
       "path": "7-2-1/data.csv",
       "name": "7-2-1",
       "profile": "tabular-data-resource",
@@ -5123,30 +5099,6 @@
         ]
       },
       "title": "Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies"
-    },
-    {
-      "path": "8-9-2/data.csv",
-      "name": "8-9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proporción de empleos en el sector del turismo sostenible respecto del total de empleos del turismo"
     },
     {
       "path": "17-15-1/data.csv",
@@ -6752,30 +6704,6 @@
         ]
       },
       "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
-    },
-    {
-      "path": "17-6-2/data.csv",
-      "name": "17-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Número de abonados a Internet de banda ancha fija por cada 100 habitantes, desglosado por velocidad"
     },
     {
       "path": "5-2-1/data.csv",

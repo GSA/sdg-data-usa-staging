@@ -69,7 +69,6 @@ UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
 #13-2-2,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
 #13-3-1,complete,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
 UNESCO Institute for Statistics (UNESCO-UIS)",,,,,binary
-#13-3-2,complete,,,,United States,Yes/No,binary
 #13-a-1,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
 #13-b-1,complete,UN Climate Change (UNFCCC Secretariat),,,,,line
 #14-1-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
@@ -159,7 +158,6 @@ United Nations Development Programme (UNDP)",,,,,line
 #17-4-1,complete,World Bank (WB),,,,,line
 #17-5-1,notstarted,United Nations Conference on Trade and Development (UNCTAD),,,,,line
 #17-6-1,notstarted,International Telecommunication Union (ITU),,,,,line
-#17-6-2,complete,,,,United States,Straight counts rounded to the nearest thousand,line
 #17-7-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #17-8-1,complete,International Telecommunication Union (ITU),,,,,line
 #17-9-1,notstarted,Organisation for Economic Co-operation and Development (OECD),,,,,line
@@ -293,7 +291,6 @@ International Labour Organization (ILO)",,,,,line
 #8-8-1,complete,International Labour Organisation (ILO),,,,,line
 #8-8-2,notstarted,International Labour Organization (ILO),,,,,line
 #8-9-1,complete,World Tourism Organization (UNWTO) ,,,,,line
-#8-9-2,complete,,,,United States,Thousands,line
 #8-a-1,complete,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
 #8-b-1,notstarted,International Labour Organization (ILO) ,,,,,line
 #9-1-1,notstarted,World Bank,,,,,line
