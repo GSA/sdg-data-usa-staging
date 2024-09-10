@@ -4,7 +4,7 @@ STAT_CONC_DEF: >-
   Intentional homicide includes murder and nonnegligent manslaughter. The UCR
   defines murder and nonnegligent manslaughter as the willful (nonnegligent)
   killing of one human being by another.
-UNIT_MEASURE: "Rate of intentional homicides per 100,000 population\nNumber of victims of intentional homicides by sex\t\t\t\t\t"
+UNIT_MEASURE: "Rate of intentional homicides per 100,000 population, Number of victims of intentional homicides by sex\t\t\t\t\t"
 SOURCE_TYPE: FBI Uniform Crime Reporting (UCR) Program
 DATA_SOURCE: FBI (data provided by Bureau of Justice Statistics)
 REC_USE_LIM: >-
@@ -49,22 +49,22 @@ DATA_COMP: >-
   The homicide rate, defined as the number of offenses per 100,000 population,
   is derived by first dividing the nation’s population by 100,000 and then
   dividing the number of offenses by the resulting figure.
-actual_indicator_available_description: |-
-  Number of intentional homicides per 100,000 population
-  Number of victims of intentional homicide by sex 
+actual_indicator_available_description: >-
+  Number of intentional homicides per 100,000 population, Number of victims of
+  intentional homicide by sex 
 date_of_national_source_publication: September 2023
 periodicity: "Annual (aggregated monthly data for the calendar year)\t\t\t\t\t"
 scheduled_update_by_national_source: October 2024
 date_metadata_updated: July 2024
 disaggregation_geography: "None\t\t\t\t\t"
 disaggregation_categories: Sex
-international_and_national_references: "FBI Crime Data Explorer, https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend\nFBI Crime in the U.S., https://ucr.fbi.gov/crime-in-the-u.s\nUnited Nations Office on Drugs and Crime, https://dataunodc.un.org/dp-intentional-homicide-victims\t\t\t\t\t\t\t\t\t\t"
+international_and_national_references: "FBI Crime Data Explorer, https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend ; FBI Crime in the U.S., https://ucr.fbi.gov/crime-in-the-u.s ; \nUnited Nations Office on Drugs and Crime, https://dataunodc.un.org/dp-intentional-homicide-victims\t\t\t\t\t\t\t\t\t\t"
 time_period: 2000-2022
 scheduled_update_by_SDG_team: ''
 source_organisation_1: FBI Uniform Crime Reporting (UCR) Program
 source_agency_staff_name_1: ''
 source_agency_survey_dataset_1: Uniform Crime Reporting (UCR) Program
-source_notes_1: "FBI Crime Data Explorer, https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend\nFBI Crime in the U.S., https://ucr.fbi.gov/crime-in-the-u.s\nUnited Nations Office on Drugs and Crime, https://dataunodc.un.org/dp-intentional-homicide-victims\t\t\t\t\t\t\t\t\t\t\t"
+source_notes_1: "FBI Crime Data Explorer, https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend ; FBI Crime in the U.S., https://ucr.fbi.gov/crime-in-the-u.s ;\nUnited Nations Office on Drugs and Crime, https://dataunodc.un.org/dp-intentional-homicide-victims\t\t\t\t\t\t\t\t\t\t\t"
 source_title_1: ''
 source_url_1: ''
 source_url_text_1: ''
