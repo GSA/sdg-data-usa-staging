@@ -434,19 +434,6 @@ prose:
             element: hidden
             label: Variable unit label
             scope: "data"
-      ######### Last updated dates #########
-      - name: "national_data_updated_date"
-        field:
-            element: hidden
-            label: "Data last updated"
-            translation_key: metadata_fields.national_data_update_url
-            scope: national
-      - name: "national_metadata_updated_date"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            translation_key: metadata_fields.national_metadata_update_url
-            scope: national
       ######### National Sources #########
       ## Source 1
       - name: source_active_1
