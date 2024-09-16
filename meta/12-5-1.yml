@@ -7,7 +7,7 @@ UNIT_MEASURE: percentage
 SOURCE_TYPE: >-
   https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/advancing-sustainable-materials-management
 DATA_SOURCE: ''
-REC_USE_LIM: 'Research possible data source (Brianna Besch & Kali Kong, July 2018)'
+REC_USE_LIM: 'Research possible data source'
 DATA_COMP: >-
   Using data gathered from industry associations, businesses and government
   sources, such as the U.S.
