@@ -7,6 +7,7 @@ crnt_srpls_govt_entrprs,1,1
 crnt_trnsfr_rcpts,1,1
 crnt_tx_rcpts,1,1
 ctrbtns_govt_soc_ins,1,1
+Hazardous waste generated per capita,1,1
 Household activities (includes travel),16,1
 inc_rcpts_asts,1,1
 Incidence rate of fatal occupational injuries,2,1
@@ -15,5 +16,6 @@ Lakes,1,1
 pct_change,1,1
 pct_GDP,1,1
 per_capita,1,1
+"Proportion of hazardous waste treated, by type of treatment",13,1
 Purchasing goods and services (includes travel),16,1
 Rivers,1,1

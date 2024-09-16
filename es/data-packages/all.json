@@ -4690,12 +4690,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "Tons",
                 "Percent",
                 ""
               ]
             },
             "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hazardous waste generated per capita",
+                "Proportion of hazardous waste treated, by type of treatment",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Treatment Method",
@@ -4721,28 +4733,8 @@
             "title": "Treatment Method"
           },
           {
-            "name": "Unnamed: 4",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 4"
-          },
-          {
-            "name": "Unnamed: 5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Unnamed: 5"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
