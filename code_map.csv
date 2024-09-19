@@ -5,12 +5,14 @@ female,SEX,F
 females,SEX,F
 i4_4_1_tech_female,SEX,F
 i4_7_1_female,SEX,F
+female_13_pls_y,SEX,F
 Male,SEX,M
 Men,SEX,M
 male,SEX,M
 males,SEX,M
 i4_4_1_tech_male,SEX,M
 i4_7_1_male,SEX,M
+male_13_pls_y,SEX,M
 Persons with a disability,DISABILITY_STATUS,PD
 i4_7_1_disabilities,DISABILITY_STATUS,PD
 Persons with no disability,DISABILITY_STATUS,PWD
