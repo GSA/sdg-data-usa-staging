@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "male_13_pls_y",
-                "female_13_pls_y",
+                "M",
+                "F",
                 ""
               ]
             },
