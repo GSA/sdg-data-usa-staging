@@ -5482,12 +5482,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "crnt_rcpts",
-                "crnt_tx_rcpts",
-                "ctrbtns_govt_soc_ins",
-                "inc_rcpts_asts",
-                "crnt_trnsfr_rcpts",
-                "crnt_srpls_govt_entrprs",
+                "Current receipts",
+                "Current tax receipts",
+                "Contributions for government social insurance",
+                "Income receipts on assets",
+                "Current transfer receipts",
+                "Current surplus of government enterprises",
                 ""
               ]
             },
