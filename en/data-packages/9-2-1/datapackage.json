@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "pct_GDP",
-                "per_capita",
+                "Manufacturing value added as a percentage of GDP",
+                "Manufacturing value added per capita",
                 ""
               ]
             },
