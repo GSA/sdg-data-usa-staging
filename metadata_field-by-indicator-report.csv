@@ -51,7 +51,7 @@ UNFPA",,,,,line
 #12-2-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #12-2-2,complete,United Nations Environment Programme (UNEP),,,,,line
 #12-3-1,complete,United Nations Environment Programme (UNEP) ,,,,,line
-#12-4-1,complete,United Nations Environment Programme (UNEP),,,,,line
+#12-4-1,complete,United Nations Environment Programme (UNEP),,,,,binary
 #12-4-2,complete,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,bar
 #12-5-1,complete,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,line
 #12-6-1,notstarted,"United Nations Conference on Trade and Development (UNCTAD)
@@ -70,7 +70,7 @@ UNESCO Institute for Statistics (UNESCO-UIS)",,,,,line
 #13-3-1,complete,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
 UNESCO Institute for Statistics (UNESCO-UIS)",,,,,binary
 #13-a-1,notstarted,UN Climate Change (UNFCCC Secretariat),,,,,line
-#13-b-1,complete,UN Climate Change (UNFCCC Secretariat),,,,,line
+#13-b-1,complete,UN Climate Change (UNFCCC Secretariat),,,,,binary
 #14-1-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #14-2-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #14-3-1,notstarted,Intergovernmental Oceanographic Commission (IOC) of UNESCO,,,,,line
