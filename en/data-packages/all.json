@@ -6026,7 +6026,7 @@
                 ""
               ]
             },
-            "title": "severity"
+            "title": "Severity"
           },
           {
             "name": "Value",
@@ -6231,7 +6231,7 @@
             "title": "Year"
           },
           {
-            "name": "Measure",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -6239,7 +6239,7 @@
                 ""
               ]
             },
-            "title": "Measure"
+            "title": "Units"
           },
           {
             "name": "Value",

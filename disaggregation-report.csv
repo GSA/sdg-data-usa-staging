@@ -5,7 +5,7 @@ EDUCATION_LEV,2,4
 exploitation,1,2
 freight-mode,1,5
 INCOME_WEALTH_QUANTILE,4,5
-Measure,6,6
+Measure,5,6
 passenger-mode,1,4
 race_ethnicity,2,5
 Scholarship Sector,1,9
@@ -15,5 +15,5 @@ SEX,17,2
 status,1,2
 subject,1,2
 Treatment Method,1,13
-Units,23,11
+Units,24,11
 URBANISATION,1,4
