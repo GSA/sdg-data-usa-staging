@@ -1390,7 +1390,7 @@
             "title": "Año"
           },
           {
-            "name": "Measure",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1398,7 +1398,7 @@
                 ""
               ]
             },
-            "title": "Measure"
+            "title": "Units"
           },
           {
             "name": "Value",

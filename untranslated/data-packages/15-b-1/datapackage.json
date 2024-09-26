@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Measure",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
